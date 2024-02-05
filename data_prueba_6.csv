@@ -1,0 +1,1999 @@
+Info,Info,Info,Objective,Objective,Extra Output,Variable,Variable,Variable
+Iteration,Generation,Category,Cooling (Electric) (kWh),Heating (Gas) (kWh),Discomfort (All Clothing) (hr),Local shading type,Window Size,Site orientation (°)
+0,0, ,1.103.829.406,645.022.057,1.350.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",135
+1,0, ,1.070.181.246,6.464.821.834,1.340.000,2m Sidefin + 2m Overhang,"Height: 3.6m, Width: 1m",135
+2,0,Pareto,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+3,0, ,238.291.189,3.355.620.762,10.310.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",90
+4,0, ,1.327.064.763,545.286.112,1.060.000,2.0m Overhang,"Height: 3.6m, Width: 10m",180
+5,0, ,2.045.787.439,4.488.353.705,8.760.000,No shading,"Height: 3.6m, Width: 10m",135
+6,0, ,172.132.536,3.522.686.493,3.255.000,2.5m Sidefin,"Height: 3.6m, Width: 1m",315
+7,0, ,1.267.527.735,600.844.879,1.295.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",225
+8,0, ,1.341.909.689,520.038.857,1.005.000,2.5m Sidefin,"Height: 3.6m, Width: 5m",180
+9,0, ,1.289.428.317,575.018.922,1.335.000,1m Sidefin,"Height: 3.6m, Width: 1m",225
+10,0, ,1.202.180.073,540.556.999,925.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+11,0, ,1.260.676.074,497.823.153,860.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",315
+12,0, ,237.399.274,2.493.692.719,9.595.000,2.5m Sidefin,"Height: 3.6m, Width: 2.5m",45
+13,0, ,252.114.361,197.815.015,9.630.000,1.5m Sidefin,"Height: 3.6m, Width: 2.5m",315
+14,0, ,151.786.556,511.203.821,2.745.000,2.0m Overhang,"Height: 3.6m, Width: 1m",225
+15,0, ,1.831.983.069,4.201.806.745,5.375.000,2.5m Overhang,"Height: 3.6m, Width: 10m",90
+16,0, ,1.243.990.912,610.088.942,1.305.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",225
+17,0, ,1.298.947.163,489.803.062,840.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",315
+18,0, ,1.311.496.092,553.374.807,1.080.000,2.5m Overhang,"Height: 3.6m, Width: 5m",180
+19,0, ,28.393.497,3.054.005.979,12.700.000,1m Sidefin,"Height: 3.6m, Width: 10m",90
+20,1, ,1.103.829.406,645.022.057,1.350.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",135
+21,1, ,1.175.357.091,612.328.447,1.250.000,2.5m Sidefin,"Height: 3.6m, Width: 1m",135
+22,1, ,223.833.482,3.350.732.885,9.435.000,1.5m Overhang,"Height: 3.6m, Width: 1m",90
+23,1, ,1.260.676.074,497.823.153,860.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",315
+24,1, ,29.052.664,998.629.251,11.970.000,0.5m Sidefin,"Height: 3.6m, Width: 5m",0
+25,1, ,1.766.010.846,4.147.146.335,4.215.000,2.5m Overhang,"Height: 3.6m, Width: 1m",270
+26,1, ,1.070.181.246,6.464.821.834,1.340.000,2m Sidefin + 2m Overhang,"Height: 3.6m, Width: 1m",135
+27,1, ,1.345.194.394,572.464.004,1.140.000,5m Overhang,"Height: 3.6m, Width: 2.5m",135
+28,1,Pareto,1.041.945.468,6.597.356.278,1.425.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+29,1, ,185.956.133,2.596.894.407,1.415.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+30,1, ,1.477.916.451,549.311.927,2.780.000,2m Sidefin + 2m Overhang,"Height: 3.6m, Width: 10m",225
+31,1, ,1.807.632.603,4.893.080.036,5.690.000,1.5m Sidefin,"Height: 3.6m, Width: 5m",225
+32,1, ,2.083.398.075,3.853.674.204,8.460.000,0.2m Louvre,"Height: 3.6m, Width: 5m",90
+33,1, ,304.608.678,145.073.891,12.735.000,2.5m Sidefin,"Height: 3.6m, Width: 10m",315
+34,1, ,28.393.497,3.054.005.979,12.700.000,1m Sidefin,"Height: 3.6m, Width: 10m",90
+35,1, ,1.154.509.304,626.728.387,1.360.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",180
+36,1, ,1.260.676.074,497.823.153,860.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",315
+37,1, ,268.478.489,178.255.782,10.610.000,1m Sidefin,"Height: 3.6m, Width: 2.5m",315
+38,1, ,1.158.268.926,621.977.867,1.295.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",225
+39,1, ,1.448.781.231,48.801.398,1.110.000,1.5m Sidefin,"Height: 3.6m, Width: 10m",180
+40,2, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+41,2, ,1.234.887.299,605.125.597,1.265.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",225
+42,2, ,234.204.885,337.822.749,8.435.000,1.0m Overhang,"Height: 3.6m, Width: 5m",270
+43,2, ,2.081.881.585,3.897.352.127,8.495.000,0.2m Louvre,"Height: 3.6m, Width: 10m",90
+44,2, ,241.521.179,212.239.226,9.035.000,2m Sidefin,"Height: 3.6m, Width: 2.5m",315
+45,2, ,1.321.450.847,534.924.847,1.000.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 5m",180
+46,2, ,179.702.354,2.880.541.693,985.000,2.5m Overhang,"Height: 3.6m, Width: 5m",45
+47,2,Pareto,1.089.863.974,5.675.226.986,1.020.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",315
+48,2, ,1.933.305.594,4.709.622.267,7.995.000,2m Sidefin,"Height: 3.6m, Width: 10m",135
+49,2, ,1.226.039.182,526.755.636,885.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",0
+50,2, ,251.851.436,1.971.757.732,10.805.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",45
+51,2,Pareto,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+52,2, ,1.440.778.321,493.561.476,1.115.000,0.5m Overhang,"Height: 3.6m, Width: 5m",180
+53,2, ,212.518.442,3.681.572.191,7.045.000,1.5m Overhang,"Height: 3.6m, Width: 5m",270
+54,2, ,1.171.749.255,611.534.739,1.245.000,2.5m Sidefin,"Height: 3.6m, Width: 1m",225
+55,2, ,192.511.408,4.512.840.349,6.180.000,No shading,"Height: 3.6m, Width: 1m",225
+56,2, ,1.315.038.402,567.810.486,1.045.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",90
+57,2, ,1.046.937.872,6.633.803.044,1.465.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",225
+58,2, ,163.282.007,3.424.007.576,675.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 10m",45
+59,2, ,1.517.751.755,5.393.460.519,2.115.000,2.5m Overhang,"Height: 3.6m, Width: 10m",135
+60,3, ,200.937.215,2.647.514.382,5.640.000,1m Sidefin,"Height: 3.6m, Width: 1m",315
+61,3, ,1.745.304.989,4.902.194.657,4.980.000,1.0m Overhang,"Height: 3.6m, Width: 5m",225
+62,3, ,1.315.038.402,567.810.486,1.045.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",90
+63,3, ,1.196.902.504,611.031.389,1.305.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",180
+64,3, ,181.321.019,561.647.821,6.190.000,2.5m Sidefin,"Height: 3.6m, Width: 1m",270
+65,3,Pareto,1.177.759.906,510.005.239,715.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+66,3, ,1.137.351.276,560.836.052,985.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+67,3, ,172.132.536,3.522.686.493,3.255.000,2.5m Sidefin,"Height: 3.6m, Width: 1m",315
+68,3, ,1.234.887.299,605.125.597,1.265.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",225
+69,3, ,1.245.335.583,5.789.442,1.160.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 10m",180
+70,3, ,1.728.483.382,4.633.472.078,4.325.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 10m",90
+71,3, ,1.309.543.007,457.085.961,600.000,5m Overhang,"Height: 3.6m, Width: 2.5m",45
+72,3, ,172.132.536,3.522.686.493,3.255.000,2.5m Sidefin,"Height: 3.6m, Width: 1m",315
+73,3, ,304.608.678,145.073.891,12.735.000,2.5m Sidefin,"Height: 3.6m, Width: 10m",315
+74,3,Pareto,153.462.361,279.741.444,635.000,2m Sidefin + 2m Overhang,"Height: 3.6m, Width: 5m",0
+75,3, ,1.341.097.851,54.656.196,1.135.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",270
+76,3, ,305.199.054,15.691.766,15.220.000,No shading,"Height: 3.6m, Width: 1m",45
+77,3, ,192.511.408,4.512.840.349,6.180.000,No shading,"Height: 3.6m, Width: 1m",225
+78,3, ,271.724.096,203.365.094,12.615.000,1m Sidefin,"Height: 3.6m, Width: 2.5m",45
+79,3, ,1.257.516.278,551.475.882,1.075.000,2m Sidefin,"Height: 3.6m, Width: 2.5m",180
+80,4, ,182.141.877,2.454.303.763,2.285.000,1m Sidefin,"Height: 3.6m, Width: 1m",0
+81,4, ,1.177.759.906,510.005.239,715.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+82,4, ,173.787.907,3.691.828.077,2.630.000,2.5m Sidefin,"Height: 3.6m, Width: 1m",45
+83,4, ,286.949.433,1.061.957.269,11.890.000,2.5m Sidefin,"Height: 3.6m, Width: 10m",0
+84,4, ,186.043.535,3.273.921.133,3.435.000,1.5m Sidefin,"Height: 3.6m, Width: 1m",45
+85,4,Pareto,174.877.042,2.166.051.042,1.200.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+86,4, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+87,4, ,1.541.612.473,5.955.865.632,3.865.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",90
+88,4, ,1.288.934.505,489.278.657,700.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",45
+89,4, ,301.586.834,172.958.609,14.835.000,1m Sidefin,"Height: 3.6m, Width: 5m",45
+90,4, ,308.207.139,166.743.516,15.285.000,2.5m Sidefin,"Height: 3.6m, Width: 10m",45
+91,4, ,1.798.388.815,424.536.522,4.670.000,2.5m Overhang,"Height: 3.6m, Width: 5m",270
+92,4, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+93,4, ,1.239.372.675,609.072.738,1.295.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",225
+94,4, ,1.118.636.712,6.135.275.551,1.225.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+95,4,Pareto,129.918.229,436.964.205,545.000,5m Overhang,"Height: 3.6m, Width: 1m",45
+96,4,Pareto,1.087.287.474,5.706.929.575,915.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+97,4, ,1.257.516.278,551.475.882,1.075.000,2m Sidefin,"Height: 3.6m, Width: 2.5m",180
+98,4, ,153.462.361,279.741.444,635.000,2m Sidefin + 2m Overhang,"Height: 3.6m, Width: 5m",0
+99,4, ,1.251.249.008,540.296.762,970.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",180
+100,4, ,260.714.203,3.256.098.825,11.645.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 10m",90
+101,4, ,240.099.401,204.046.494,8.910.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",315
+102,4, ,1.243.990.912,610.088.942,1.305.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",225
+103,4, ,276.273.877,187.382.341,13.230.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 5m",45
+104,4, ,251.851.436,1.971.757.732,10.805.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",45
+105,4, ,1.257.516.278,551.475.882,1.075.000,2m Sidefin,"Height: 3.6m, Width: 2.5m",180
+106,5, ,1.292.940.938,575.586.009,1.220.000,1m Sidefin,"Height: 3.6m, Width: 1m",135
+107,5, ,128.063.505,487.914.397,690.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+108,5,Pareto,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+109,5, ,1.041.945.468,6.597.356.278,1.425.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+110,5, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+111,5, ,201.395.327,1.773.544.433,3.605.000,0.2m Louvre,"Height: 3.6m, Width: 1m",0
+112,5, ,1.165.219.391,6.355.105.146,1.360.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",90
+113,5, ,213.496.699,2.339.310.167,5.460.000,0.2m Louvre,"Height: 3.6m, Width: 1m",45
+114,5, ,259.101.743,1.326.621.014,9.530.000,2.5m Sidefin,"Height: 3.6m, Width: 5m",0
+115,5,Pareto,250.364.976,1.194.180.329,7.830.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 5m",0
+116,5,Pareto,1.117.063.271,5.485.825.817,850.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+117,5, ,25.723.867,356.619.859,9.905.000,2.5m Sidefin,"Height: 3.6m, Width: 5m",270
+118,5, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+119,5, ,1.209.343.153,62.220.329,1.345.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",135
+120,5, ,1.846.203.991,468.150.456,7.000.000,0.5m Overhang,"Height: 3.6m, Width: 1m",135
+121,5,Pareto,1.069.318.178,5.874.044.331,1.005.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+122,5, ,1.226.039.182,526.755.636,885.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",0
+123,5, ,249.362.226,181.193.127,9.185.000,1.0m Overhang,"Height: 3.6m, Width: 5m",315
+124,5, ,276.273.877,187.382.341,13.230.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 5m",45
+125,5, ,1.166.124.654,633.200.298,1.370.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",225
+126,5, ,1.258.065.256,489.105.183,695.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",45
+127,5, ,175.987.072,3.067.772.779,980.000,2.5m Overhang,"Height: 3.6m, Width: 10m",45
+128,5, ,1.063.650.659,6.565.856.896,1.440.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",225
+129,5, ,170.136.806,3.245.930.961,795.000,2m Sidefin + 2m Overhang,"Height: 3.6m, Width: 5m",45
+130,5,Pareto,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+131,5, ,151.079.934,37.097.086,500.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 5m",45
+132,5, ,1.262.608.035,571.210.062,1.130.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",270
+133,5, ,182.141.877,2.454.303.763,2.285.000,1m Sidefin,"Height: 3.6m, Width: 1m",0
+134,5, ,1.097.760.455,644.990.921,1.350.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",225
+135,5, ,301.586.834,172.958.609,14.835.000,1m Sidefin,"Height: 3.6m, Width: 5m",45
+136,5, ,279.473.898,3.156.981.891,12.490.000,2m Sidefin,"Height: 3.6m, Width: 10m",90
+137,6, ,1.087.287.474,5.706.929.575,915.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+138,6, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+139,6, ,188.924.762,1.915.073.433,2.825.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 1m",0
+140,6, ,200.937.215,2.647.514.382,5.640.000,1m Sidefin,"Height: 3.6m, Width: 1m",315
+141,6, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+142,6,Pareto,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+143,6, ,1.087.287.474,5.706.929.575,915.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+144,6, ,292.851.751,182.001.615,14.270.000,1.5m Sidefin,"Height: 3.6m, Width: 5m",45
+145,6, ,1.752.713.917,5.413.854.668,5.525.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 1m",270
+146,6, ,269.471.555,1.125.832.975,10.080.000,0.5m Sidefin,"Height: 3.6m, Width: 2.5m",0
+147,6, ,1.201.013.593,548.336.327,955.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",0
+148,6, ,1.204.236.942,610.057.002,1.220.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",90
+149,6,Pareto,113.544.968,5.188.806.208,880.000,2m Sidefin + 2m Overhang,"Height: 3.6m, Width: 1m",0
+150,6, ,185.956.133,2.596.894.407,1.415.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+151,6, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+152,6, ,188.924.762,1.915.073.433,2.825.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 1m",0
+153,6, ,247.295.905,1.914.830.613,10.235.000,1.0m Overhang,"Height: 3.6m, Width: 1m",45
+154,6, ,1.210.039.011,520.847.191,860.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+155,6, ,1.304.617.949,472.940.637,660.000,5m Overhang,"Height: 3.6m, Width: 5m",45
+156,6, ,224.968.183,2.048.083.115,6.250.000,1.5m Overhang,"Height: 3.6m, Width: 1m",45
+157,6,Pareto,174.940.065,2.156.532.608,1.715.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 5m",0
+158,6,Pareto,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+159,6, ,1.117.063.271,5.485.825.817,850.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+160,6, ,1.057.606.065,6.569.856.887,1.450.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",180
+161,6, ,1.137.351.276,560.836.052,985.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+162,6, ,305.199.054,15.691.766,15.220.000,No shading,"Height: 3.6m, Width: 1m",45
+163,6, ,1.440.778.321,493.561.476,1.115.000,0.5m Overhang,"Height: 3.6m, Width: 5m",180
+164,6, ,1.177.759.906,510.005.239,715.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+165,6, ,1.202.196.927,609.878.469,1.280.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",270
+166,6, ,209.893.477,2.565.155.668,4.910.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 10m",45
+167,6, ,1.288.934.505,489.278.657,700.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",45
+168,6,Pareto,142.305.511,3.385.096.312,380.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 1m",0
+169,6, ,1.177.759.906,510.005.239,715.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+170,6, ,1.117.063.271,5.485.825.817,850.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+171,6, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+172,6, ,1.177.759.906,510.005.239,715.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+173,6, ,129.918.229,436.964.205,545.000,5m Overhang,"Height: 3.6m, Width: 1m",45
+174,6, ,201.395.327,1.773.544.433,3.605.000,0.2m Louvre,"Height: 3.6m, Width: 1m",0
+175,7, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+176,7, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+177,7, ,1.177.759.906,510.005.239,715.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+178,7, ,1.393.461.187,511.434.922,865.000,5m Overhang,"Height: 3.6m, Width: 5m",90
+179,7, ,215.451.325,2.571.191.905,5.865.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 1m",45
+180,7, ,200.315.066,1.833.281.341,3.305.000,0.2m Louvre,"Height: 3.6m, Width: 2.5m",0
+181,7, ,1.168.126.371,559.986.542,995.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+182,7,Pareto,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+183,7, ,158.745.499,3.522.661.014,885.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 1m",45
+184,7, ,1.258.869.432,499.794.611,725.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+185,7, ,203.227.404,2.888.047.234,4.965.000,1m Sidefin,"Height: 3.6m, Width: 1m",45
+186,7, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+187,7, ,1.341.823.859,517.849.598,910.000,1.5m Overhang,"Height: 3.6m, Width: 1m",180
+188,7, ,1.202.180.073,540.556.999,925.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+189,7, ,1.201.013.593,548.336.327,955.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",0
+190,7, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+191,7, ,1.087.287.474,5.706.929.575,915.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+192,7, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+193,7, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+194,7, ,1.762.683.915,4.984.406.968,6.280.000,2.0m Overhang,"Height: 3.6m, Width: 1m",135
+195,7, ,305.199.054,15.691.766,15.220.000,No shading,"Height: 3.6m, Width: 1m",45
+196,7, ,1.270.076.966,454.901.225,645.000,5m Overhang,"Height: 3.6m, Width: 1m",0
+197,7, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+198,7,Pareto,138.789.575,351.639.429,365.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 5m",0
+199,7, ,162.158.528,3.289.090.309,1.230.000,2m Sidefin,"Height: 3.6m, Width: 1m",0
+200,7, ,151.035.964,3.531.516.353,770.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 5m",315
+201,7, ,187.532.219,1.863.814.049,2.565.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 10m",0
+202,7, ,2.288.478.971,446.915.093,8.545.000,2.5m Sidefin,"Height: 3.6m, Width: 2.5m",270
+203,7, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+204,7, ,1.202.196.927,609.878.469,1.280.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",270
+205,7,Pareto,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+206,7, ,1.177.759.906,510.005.239,715.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+207,7,Pareto,1.197.975.518,4.807.223.513,685.000,2m Sidefin + 2m Overhang,"Height: 3.6m, Width: 1m",45
+208,7, ,1.117.063.271,5.485.825.817,850.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+209,7, ,276.273.877,187.382.341,13.230.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 5m",45
+210,7, ,203.252.348,2.881.331.791,5.855.000,2.5m Overhang,"Height: 3.6m, Width: 1m",315
+211,7, ,193.371.169,227.910.893,2.100.000,2.5m Overhang,"Height: 3.6m, Width: 1m",45
+212,7, ,188.924.762,1.915.073.433,2.825.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 1m",0
+213,7, ,202.647.497,2.396.263.581,3.325.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",45
+214,7, ,185.956.133,2.596.894.407,1.415.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+215,7, ,281.479.283,194.247.317,13.440.000,2.5m Sidefin,"Height: 3.6m, Width: 5m",45
+216,8, ,182.141.877,2.454.303.763,2.285.000,1m Sidefin,"Height: 3.6m, Width: 1m",0
+217,8, ,1.177.759.906,510.005.239,715.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+218,8, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+219,8, ,179.702.354,2.880.541.693,985.000,2.5m Overhang,"Height: 3.6m, Width: 5m",45
+220,8, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+221,8, ,182.141.877,2.454.303.763,2.285.000,1m Sidefin,"Height: 3.6m, Width: 1m",0
+222,8, ,1.087.287.474,5.706.929.575,915.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+223,8, ,1.137.351.276,560.836.052,985.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+224,8, ,1.348.900.197,544.905.446,950.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",90
+225,8, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+226,8, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+227,8, ,32.213.075,154.029.634,16.090.000,0.5m Sidefin,"Height: 3.6m, Width: 10m",45
+228,8, ,193.371.169,227.910.893,2.100.000,2.5m Overhang,"Height: 3.6m, Width: 1m",45
+229,8, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+230,8, ,170.136.806,3.245.930.961,795.000,2m Sidefin + 2m Overhang,"Height: 3.6m, Width: 5m",45
+231,8, ,215.451.325,2.571.191.905,5.865.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 1m",45
+232,8, ,227.212.102,1.331.944.992,5.870.000,1.0m Overhang,"Height: 3.6m, Width: 10m",0
+233,8, ,1.117.063.271,5.485.825.817,850.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+234,8, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+235,8, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+236,8, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+237,8, ,231.403.514,1.582.874.028,7.060.000,1.5m Sidefin,"Height: 3.6m, Width: 2.5m",0
+238,8, ,188.924.762,1.915.073.433,2.825.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 1m",0
+239,8, ,174.940.065,2.156.532.608,1.715.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 5m",0
+240,8,Pareto,1.088.711.461,5.700.757.386,1.040.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 1m",0
+241,8, ,1.137.351.276,560.836.052,985.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+242,8, ,1.209.395.214,51.145.756,860.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",315
+243,8, ,1.379.385.075,469.711.603,880.000,5m Overhang,"Height: 3.6m, Width: 1m",315
+244,8, ,1.117.063.271,5.485.825.817,850.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+245,8, ,1.358.872.437,545.927.487,1.220.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",270
+246,8, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+247,8, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+248,8, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+249,8, ,25.262.794,2.036.261.234,10.855.000,1.0m Overhang,"Height: 3.6m, Width: 10m",45
+250,8, ,138.789.575,351.639.429,365.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 5m",0
+251,8, ,1.254.426.726,557.733.314,1.080.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 2.5m",180
+252,8,Pareto,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+253,8, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+254,8, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+255,8, ,179.702.354,2.880.541.693,985.000,2.5m Overhang,"Height: 3.6m, Width: 5m",45
+256,8, ,153.905.468,2.842.143.992,585.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+257,8, ,198.241.299,2.586.399.491,3.025.000,2.0m Overhang,"Height: 3.6m, Width: 5m",45
+258,8, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+259,8, ,174.940.065,2.156.532.608,1.715.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 5m",0
+260,8, ,113.728.321,591.956.731,1.125.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+261,8, ,1.210.039.011,520.847.191,860.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+262,8, ,132.516.207,425.552.435,560.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",45
+263,8, ,1.237.529.717,51.801.732,860.000,5m Overhang,"Height: 3.6m, Width: 10m",0
+264,9, ,1.201.013.593,548.336.327,955.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",0
+265,9, ,188.924.762,1.915.073.433,2.825.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 1m",0
+266,9, ,1.137.351.276,560.836.052,985.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+267,9, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+268,9, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+269,9, ,1.176.274.731,627.081.318,1.350.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 2.5m",135
+270,9, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+271,9, ,1.226.039.182,526.755.636,885.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",0
+272,9, ,1.177.759.906,510.005.239,715.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+273,9, ,128.063.505,487.914.397,690.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+274,9, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+275,9, ,1.816.641.485,4.835.266.586,5.660.000,0.5m Sidefin,"Height: 3.6m, Width: 2.5m",225
+276,9, ,278.769.362,1.088.523.121,11.060.000,1m Sidefin,"Height: 3.6m, Width: 5m",0
+277,9, ,1.088.711.461,5.700.757.386,1.040.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 1m",0
+278,9, ,2.010.169.456,3.836.393.983,7.710.000,2.0m Overhang,"Height: 3.6m, Width: 5m",90
+279,9, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+280,9, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+281,9, ,193.371.169,227.910.893,2.100.000,2.5m Overhang,"Height: 3.6m, Width: 1m",45
+282,9, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+283,9, ,138.789.575,351.639.429,365.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 5m",0
+284,9, ,207.147.831,2.166.349.961,3.685.000,2.0m Overhang,"Height: 3.6m, Width: 1m",45
+285,9, ,1.239.550.929,508.247.642,735.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+286,9, ,1.875.743.498,4.798.035.606,7.415.000,1m Sidefin,"Height: 3.6m, Width: 5m",135
+287,9, ,113.728.321,591.956.731,1.125.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+288,9, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+289,9, ,132.516.207,425.552.435,560.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",45
+290,9, ,1.177.759.906,510.005.239,715.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+291,9, ,312.649.772,161.756.218,15.620.000,0.5m Sidefin,"Height: 3.6m, Width: 5m",45
+292,9, ,1.118.636.712,6.135.275.551,1.225.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+293,9, ,1.202.180.073,540.556.999,925.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+294,9, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+295,9, ,126.926.045,494.456.459,855.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",315
+296,9, ,1.258.869.432,499.794.611,725.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+297,9, ,142.305.511,3.385.096.312,380.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 1m",0
+298,9, ,185.956.133,2.596.894.407,1.415.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+299,9,Pareto,149.571.238,298.016.663,455.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 10m",0
+300,9, ,207.147.831,2.166.349.961,3.685.000,2.0m Overhang,"Height: 3.6m, Width: 1m",45
+301,9, ,224.472.173,2.190.583.026,6.485.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+302,9, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+303,9, ,1.182.749.885,528.114.851,795.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",45
+304,9,Pareto,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+305,9, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+306,9, ,224.968.183,2.048.083.115,6.250.000,1.5m Overhang,"Height: 3.6m, Width: 1m",45
+307,9, ,1.270.076.966,454.901.225,645.000,5m Overhang,"Height: 3.6m, Width: 1m",0
+308,9, ,188.924.762,1.915.073.433,2.825.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 1m",0
+309,9, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+310,9, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+311,9, ,1.252.350.546,598.605.339,1.180.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",90
+312,10, ,30.128.203,94.685.002,12.975.000,0.5m Sidefin,"Height: 3.6m, Width: 10m",0
+313,10, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+314,10, ,22.237.795,2.298.088.117,6.440.000,1.5m Overhang,"Height: 3.6m, Width: 5m",45
+315,10, ,1.224.607.948,52.148.434,870.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+316,10, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+317,10, ,203.227.404,2.888.047.234,4.965.000,1m Sidefin,"Height: 3.6m, Width: 1m",45
+318,10, ,1.088.711.461,5.700.757.386,1.040.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 1m",0
+319,10, ,182.141.877,2.454.303.763,2.285.000,1m Sidefin,"Height: 3.6m, Width: 1m",0
+320,10, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+321,10, ,1.277.130.918,59.716.274,1.245.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",135
+322,10, ,174.940.065,2.156.532.608,1.715.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 5m",0
+323,10, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+324,10, ,1.088.711.461,5.700.757.386,1.040.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 1m",0
+325,10, ,173.787.907,3.691.828.077,2.630.000,2.5m Sidefin,"Height: 3.6m, Width: 1m",45
+326,10, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+327,10, ,158.904.896,3.460.769.821,1.175.000,2.5m Sidefin,"Height: 3.6m, Width: 1m",0
+328,10, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+329,10,Pareto,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+330,10, ,174.940.065,2.156.532.608,1.715.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 5m",0
+331,10, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+332,10, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+333,10, ,2.288.478.971,446.915.093,8.545.000,2.5m Sidefin,"Height: 3.6m, Width: 2.5m",270
+334,10, ,1.665.596.633,5.093.363.019,4.565.000,1.5m Overhang,"Height: 3.6m, Width: 10m",135
+335,10, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+336,10, ,1.286.955.423,638.359.334,1.435.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 1m",90
+337,10, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+338,10, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+339,10, ,162.158.528,3.289.090.309,1.230.000,2m Sidefin,"Height: 3.6m, Width: 1m",0
+340,10, ,1.270.076.966,454.901.225,645.000,5m Overhang,"Height: 3.6m, Width: 1m",0
+341,10, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+342,10, ,132.516.207,425.552.435,560.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",45
+343,10, ,113.728.321,591.956.731,1.125.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+344,10, ,215.451.325,2.571.191.905,5.865.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 1m",45
+345,10, ,1.323.343.807,526.635.186,930.000,2.0m Overhang,"Height: 3.6m, Width: 1m",180
+346,10, ,259.101.743,1.326.621.014,9.530.000,2.5m Sidefin,"Height: 3.6m, Width: 5m",0
+347,10, ,22.822.059,131.777.832,6.085.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+348,10,Pareto,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+349,10, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+350,10, ,1.299.117.849,482.872.055,685.000,5m Overhang,"Height: 3.6m, Width: 10m",45
+351,10, ,1.251.646.117,501.277.791,815.000,5m Overhang,"Height: 3.6m, Width: 5m",0
+352,10, ,158.745.499,3.522.661.014,885.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 1m",45
+353,10, ,1.210.039.011,520.847.191,860.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+354,10, ,1.239.550.929,508.247.642,735.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+355,10, ,196.477.583,2.781.584.264,3.360.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 5m",45
+356,10, ,153.462.361,279.741.444,635.000,2m Sidefin + 2m Overhang,"Height: 3.6m, Width: 5m",0
+357,10, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+358,10, ,207.147.831,2.166.349.961,3.685.000,2.0m Overhang,"Height: 3.6m, Width: 1m",45
+359,10, ,198.241.299,2.586.399.491,3.025.000,2.0m Overhang,"Height: 3.6m, Width: 5m",45
+360,10, ,1.087.287.474,5.706.929.575,915.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+361,11, ,179.702.354,2.880.541.693,985.000,2.5m Overhang,"Height: 3.6m, Width: 5m",45
+362,11, ,182.141.877,2.454.303.763,2.285.000,1m Sidefin,"Height: 3.6m, Width: 1m",0
+363,11, ,1.088.711.461,5.700.757.386,1.040.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 1m",0
+364,11, ,1.041.945.468,6.597.356.278,1.425.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+365,11, ,1.239.550.929,508.247.642,735.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+366,11, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+367,11, ,269.471.555,1.125.832.975,10.080.000,0.5m Sidefin,"Height: 3.6m, Width: 2.5m",0
+368,11, ,182.141.877,2.454.303.763,2.285.000,1m Sidefin,"Height: 3.6m, Width: 1m",0
+369,11, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+370,11, ,29.052.664,998.629.251,11.970.000,0.5m Sidefin,"Height: 3.6m, Width: 5m",0
+371,11, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+372,11, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+373,11, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+374,11, ,259.927.617,204.379.846,11.565.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+375,11, ,22.822.059,131.777.832,6.085.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+376,11, ,1.177.759.906,510.005.239,715.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+377,11, ,197.517.133,3.837.415.245,6.170.000,0.2m Louvre,"Height: 3.6m, Width: 1m",270
+378,11, ,210.906.763,3.667.181.559,6.885.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",270
+379,11, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+380,11, ,278.769.362,1.088.523.121,11.060.000,1m Sidefin,"Height: 3.6m, Width: 5m",0
+381,11, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+382,11, ,1.216.366.984,534.920.688,905.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",0
+383,11, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+384,11, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+385,11, ,153.905.468,2.842.143.992,585.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+386,11, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+387,11, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+388,11, ,259.927.617,204.379.846,11.565.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+389,11, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+390,11, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+391,11, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+392,11, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+393,11, ,188.924.762,1.915.073.433,2.825.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 1m",0
+394,11,Pareto,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+395,11,Pareto,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+396,11, ,246.697.727,135.498.476,8.325.000,1m Sidefin,"Height: 3.6m, Width: 2.5m",0
+397,11, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+398,11, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+399,11, ,200.937.215,2.647.514.382,5.640.000,1m Sidefin,"Height: 3.6m, Width: 1m",315
+400,11, ,142.305.511,3.385.096.312,380.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 1m",0
+401,11, ,247.295.905,1.914.830.613,10.235.000,1.0m Overhang,"Height: 3.6m, Width: 1m",45
+402,11, ,1.083.241.469,6.230.275.678,1.225.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+403,11, ,172.465.475,3.220.715.498,1.305.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+404,11, ,1.087.287.474,5.706.929.575,915.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+405,11, ,259.101.743,1.326.621.014,9.530.000,2.5m Sidefin,"Height: 3.6m, Width: 5m",0
+406,11, ,1.088.711.461,5.700.757.386,1.040.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 1m",0
+407,11, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+408,11, ,1.177.759.906,510.005.239,715.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+409,12, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+410,12, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+411,12,Pareto,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+412,12, ,176.275.767,3.337.900.476,3.495.000,2m Sidefin,"Height: 3.6m, Width: 1m",315
+413,12, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+414,12, ,278.769.362,1.088.523.121,11.060.000,1m Sidefin,"Height: 3.6m, Width: 5m",0
+415,12, ,246.697.727,135.498.476,8.325.000,1m Sidefin,"Height: 3.6m, Width: 2.5m",0
+416,12, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+417,12, ,224.968.183,2.048.083.115,6.250.000,1.5m Overhang,"Height: 3.6m, Width: 1m",45
+418,12, ,1.177.759.906,510.005.239,715.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+419,12, ,182.141.877,2.454.303.763,2.285.000,1m Sidefin,"Height: 3.6m, Width: 1m",0
+420,12, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+421,12, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+422,12, ,1.732.849.452,4.976.560.034,5.545.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",135
+423,12, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+424,12, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+425,12, ,118.875.739,606.122.223,1.220.000,2m Sidefin,"Height: 3.6m, Width: 1m",135
+426,12,Pareto,162.228.732,249.747.144,800.000,2.5m Overhang,"Height: 3.6m, Width: 10m",0
+427,12, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+428,12, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+429,12, ,138.789.575,351.639.429,365.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 5m",0
+430,12, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+431,12, ,235.392.848,337.850.425,8.505.000,1.0m Overhang,"Height: 3.6m, Width: 10m",270
+432,12, ,186.043.535,3.273.921.133,3.435.000,1.5m Sidefin,"Height: 3.6m, Width: 1m",45
+433,12, ,1.061.363.068,6.447.869.851,1.345.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+434,12, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+435,12, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+436,12, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+437,12,Pareto,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+438,12, ,182.141.877,2.454.303.763,2.285.000,1m Sidefin,"Height: 3.6m, Width: 1m",0
+439,12, ,168.528.902,2.993.624.855,1.385.000,1.5m Sidefin,"Height: 3.6m, Width: 1m",0
+440,12, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+441,12, ,30.907.978,140.318.463,12.980.000,0.5m Sidefin,"Height: 3.6m, Width: 5m",315
+442,12, ,1.168.126.371,559.986.542,995.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+443,12, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+444,12, ,132.516.207,425.552.435,560.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",45
+445,12, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+446,12, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+447,12, ,1.216.266.634,511.675.712,745.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",45
+448,12, ,1.087.287.474,5.706.929.575,915.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+449,12, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+450,12, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+451,12, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+452,12, ,113.728.321,591.956.731,1.125.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+453,12, ,138.789.575,351.639.429,365.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 5m",0
+454,12, ,320.072.146,151.493.867,16.015.000,No shading,"Height: 3.6m, Width: 2.5m",45
+455,12, ,1.088.711.461,5.700.757.386,1.040.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 1m",0
+456,12, ,224.968.183,2.048.083.115,6.250.000,1.5m Overhang,"Height: 3.6m, Width: 1m",45
+457,12, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+458,12, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+459,13, ,1.195.544.215,620.234.286,1.295.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",135
+460,13, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+461,13, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+462,13, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+463,13, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+464,13, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+465,13, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+466,13, ,121.447.784,515.699.842,885.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",315
+467,13, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+468,13, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+469,13, ,193.371.169,227.910.893,2.100.000,2.5m Overhang,"Height: 3.6m, Width: 1m",45
+470,13, ,162.158.528,3.289.090.309,1.230.000,2m Sidefin,"Height: 3.6m, Width: 1m",0
+471,13, ,29.052.664,998.629.251,11.970.000,0.5m Sidefin,"Height: 3.6m, Width: 5m",0
+472,13, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+473,13, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+474,13, ,1.087.287.474,5.706.929.575,915.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+475,13, ,1.087.287.474,5.706.929.575,915.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+476,13, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+477,13, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+478,13, ,1.960.062.949,538.806.252,8.780.000,1.5m Sidefin,"Height: 3.6m, Width: 1m",90
+479,13, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+480,13, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+481,13, ,1.196.596.275,588.876.249,1.190.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 2.5m",180
+482,13, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+483,13, ,1.804.412.187,4.805.036.923,6.600.000,1.0m Overhang,"Height: 3.6m, Width: 1m",135
+484,13, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+485,13, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+486,13, ,268.478.489,178.255.782,10.610.000,1m Sidefin,"Height: 3.6m, Width: 2.5m",315
+487,13, ,134.461.223,555.580.936,1.015.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",90
+488,13,Pareto,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+489,13, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+490,13, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+491,13, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+492,13, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+493,13,Pareto,1.053.798.063,65.648.692,1.450.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 1m",180
+494,13, ,1.083.241.469,6.230.275.678,1.225.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+495,13, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+496,13, ,201.395.327,1.773.544.433,3.605.000,0.2m Louvre,"Height: 3.6m, Width: 1m",0
+497,13, ,24384.43,186.406.472,8.745.000,1.0m Overhang,"Height: 3.6m, Width: 1m",315
+498,13, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+499,13, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+500,13, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+501,13, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+502,13, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+503,13, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+504,13, ,224.968.183,2.048.083.115,6.250.000,1.5m Overhang,"Height: 3.6m, Width: 1m",45
+505,13, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+506,13, ,1.041.945.468,6.597.356.278,1.425.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+507,13, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+508,13, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+509,14, ,118.360.904,557.277.864,1.000.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+510,14, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+511,14, ,182.141.877,2.454.303.763,2.285.000,1m Sidefin,"Height: 3.6m, Width: 1m",0
+512,14, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+513,14, ,1.778.683.435,4.992.588.624,6.420.000,2m Sidefin,"Height: 3.6m, Width: 5m",135
+514,14, ,1.157.152.249,583.530.307,1.095.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+515,14, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+516,14, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+517,14, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+518,14, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+519,14, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+520,14, ,224.968.183,2.048.083.115,6.250.000,1.5m Overhang,"Height: 3.6m, Width: 1m",45
+521,14, ,213.175.519,2.445.227.816,6.550.000,0.2m Louvre,"Height: 3.6m, Width: 1m",315
+522,14, ,118.360.904,557.277.864,1.000.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+523,14, ,1.157.152.249,583.530.307,1.095.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+524,14, ,1.177.759.906,510.005.239,715.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+525,14, ,284.683.875,173.420.745,14.000.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+526,14, ,1.061.363.068,6.447.869.851,1.345.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+527,14, ,129.918.229,436.964.205,545.000,5m Overhang,"Height: 3.6m, Width: 1m",45
+528,14, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+529,14, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+530,14, ,1.208.838.221,520.900.623,765.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+531,14, ,301.586.834,172.958.609,14.835.000,1m Sidefin,"Height: 3.6m, Width: 5m",45
+532,14, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+533,14, ,1.092.435.037,6.310.768.128,1.310.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",180
+534,14, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+535,14, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+536,14, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+537,14, ,1.874.215.248,4.005.089.896,5.630.000,2.5m Overhang,"Height: 3.6m, Width: 5m",90
+538,14, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+539,14, ,247.295.905,1.914.830.613,10.235.000,1.0m Overhang,"Height: 3.6m, Width: 1m",45
+540,14, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+541,14, ,203.649.949,2.539.180.504,5.550.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",315
+542,14, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+543,14, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+544,14, ,25.262.794,2.036.261.234,10.855.000,1.0m Overhang,"Height: 3.6m, Width: 10m",45
+545,14, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+546,14, ,113.544.968,5.188.806.208,880.000,2m Sidefin + 2m Overhang,"Height: 3.6m, Width: 1m",0
+547,14,Pareto,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+548,14, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+549,14, ,1.083.241.469,6.230.275.678,1.225.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+550,14, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+551,14, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+552,14, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+553,14, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+554,14, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+555,14, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+556,14, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+557,14, ,1.250.621.485,605.827.646,1.280.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",135
+558,14, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+559,15, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+560,15, ,1.168.126.371,559.986.542,995.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+561,15, ,305.199.054,15.691.766,15.220.000,No shading,"Height: 3.6m, Width: 1m",45
+562,15,Pareto,1.058.487.165,6.002.975.435,1.060.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+563,15, ,1.083.241.469,6.230.275.678,1.225.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+564,15, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+565,15, ,1.224.607.948,52.148.434,870.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+566,15, ,1.689.563.928,5.043.033.672,4.940.000,1.5m Overhang,"Height: 3.6m, Width: 5m",135
+567,15, ,221.075.542,2.367.619.413,6.345.000,1.5m Overhang,"Height: 3.6m, Width: 10m",45
+568,15, ,120.823.609,542.056.697,925.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",0
+569,15, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+570,15, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+571,15, ,1.177.759.906,510.005.239,715.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+572,15, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+573,15, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+574,15, ,1.634.379.746,517.432.085,4.165.000,0.2m Louvre,"Height: 3.6m, Width: 5m",135
+575,15, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+576,15, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+577,15, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+578,15, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+579,15, ,22.517.112,2.189.325.727,7.215.000,1.5m Overhang,"Height: 3.6m, Width: 1m",315
+580,15, ,201.395.327,1.773.544.433,3.605.000,0.2m Louvre,"Height: 3.6m, Width: 1m",0
+581,15, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+582,15, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+583,15, ,1.087.287.474,5.706.929.575,915.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+584,15, ,201.395.327,1.773.544.433,3.605.000,0.2m Louvre,"Height: 3.6m, Width: 1m",0
+585,15, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+586,15, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+587,15, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+588,15, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+589,15, ,128.063.505,487.914.397,690.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+590,15, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+591,15, ,1.137.351.276,560.836.052,985.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+592,15, ,1.061.363.068,6.447.869.851,1.345.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+593,15, ,1.892.127.142,391.701.447,5.285.000,2.0m Overhang,"Height: 3.6m, Width: 1m",270
+594,15, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+595,15, ,1.273.045.597,552.318.827,940.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",90
+596,15, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+597,15, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+598,15, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+599,15, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+600,15, ,1.291.681.839,591.127.129,1.215.000,5m Overhang,"Height: 3.6m, Width: 10m",135
+601,15, ,162.158.528,3.289.090.309,1.230.000,2m Sidefin,"Height: 3.6m, Width: 1m",0
+602,15, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+603,15, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+604,15, ,26.109.889,304.988.715,9.960.000,0.5m Overhang,"Height: 3.6m, Width: 10m",270
+605,15, ,1.778.788.851,4.882.993.829,6.250.000,1.0m Overhang,"Height: 3.6m, Width: 5m",135
+606,15, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+607,15, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+608,15, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+609,16, ,1.064.877.923,6.565.799.814,1.450.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",135
+610,16, ,1.041.945.468,6.597.356.278,1.425.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+611,16, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+612,16, ,1.137.351.276,560.836.052,985.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+613,16, ,29.231.932,1.009.509.023,12.310.000,1.5m Sidefin,"Height: 3.6m, Width: 10m",0
+614,16, ,206.476.831,3.626.756.755,7.840.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",90
+615,16, ,212.518.442,3.681.572.191,7.045.000,1.5m Overhang,"Height: 3.6m, Width: 5m",270
+616,16, ,220.234.426,2.167.309.106,6.810.000,1.5m Overhang,"Height: 3.6m, Width: 5m",315
+617,16, ,1.392.649.646,460.856.587,630.000,5m Overhang,"Height: 3.6m, Width: 1m",90
+618,16, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+619,16, ,1.250.621.485,605.827.646,1.280.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",135
+620,16, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+621,16, ,132.686.536,42.517.927,550.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+622,16, ,1.058.487.165,6.002.975.435,1.060.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+623,16, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+624,16, ,1.069.318.178,5.874.044.331,1.005.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+625,16, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+626,16, ,1.270.076.966,454.901.225,645.000,5m Overhang,"Height: 3.6m, Width: 1m",0
+627,16, ,290.444.663,155.359.992,11.990.000,0.5m Sidefin,"Height: 3.6m, Width: 2.5m",315
+628,16, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+629,16, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+630,16, ,1.270.076.966,454.901.225,645.000,5m Overhang,"Height: 3.6m, Width: 1m",0
+631,16, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+632,16, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+633,16, ,182.141.877,2.454.303.763,2.285.000,1m Sidefin,"Height: 3.6m, Width: 1m",0
+634,16, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+635,16, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+636,16, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+637,16, ,195.002.162,2.577.841.685,4.460.000,2.0m Overhang,"Height: 3.6m, Width: 10m",315
+638,16, ,22.237.795,2.298.088.117,6.440.000,1.5m Overhang,"Height: 3.6m, Width: 5m",45
+639,16, ,29.052.664,998.629.251,11.970.000,0.5m Sidefin,"Height: 3.6m, Width: 5m",0
+640,16, ,207.147.831,2.166.349.961,3.685.000,2.0m Overhang,"Height: 3.6m, Width: 1m",45
+641,16, ,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+642,16, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+643,16, ,305.199.054,15.691.766,15.220.000,No shading,"Height: 3.6m, Width: 1m",45
+644,16, ,323.753.418,129.175.119,13.825.000,No shading,"Height: 3.6m, Width: 10m",315
+645,16, ,1.778.683.435,4.992.588.624,6.420.000,2m Sidefin,"Height: 3.6m, Width: 5m",135
+646,16, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+647,16, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+648,16, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+649,16, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+650,16, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+651,16, ,1.058.487.165,6.002.975.435,1.060.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+652,16, ,263.857.055,1.257.117.133,9.955.000,2m Sidefin,"Height: 3.6m, Width: 5m",0
+653,16, ,175.987.072,3.067.772.779,980.000,2.5m Overhang,"Height: 3.6m, Width: 10m",45
+654,16, ,212.411.079,2.531.712.181,6.355.000,2.0m Overhang,"Height: 3.6m, Width: 1m",315
+655,16, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+656,16, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+657,16, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+658,17, ,1.041.945.468,6.597.356.278,1.425.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+659,17, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+660,17, ,1.270.076.966,454.901.225,645.000,5m Overhang,"Height: 3.6m, Width: 1m",0
+661,17, ,132.686.536,42.517.927,550.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+662,17, ,1.686.934.043,5.112.557.087,5.470.000,1m Sidefin,"Height: 3.6m, Width: 2.5m",135
+663,17, ,1.101.939.197,630.740.772,1.310.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",135
+664,17, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+665,17, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+666,17, ,201.395.327,1.773.544.433,3.605.000,0.2m Louvre,"Height: 3.6m, Width: 1m",0
+667,17, ,248.221.393,18.202.195,9.145.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",315
+668,17, ,260.058.577,3.160.334.874,11.680.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",90
+669,17, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+670,17, ,1.087.287.474,5.706.929.575,915.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+671,17, ,201.395.327,1.773.544.433,3.605.000,0.2m Louvre,"Height: 3.6m, Width: 1m",0
+672,17, ,168.528.902,2.993.624.855,1.385.000,1.5m Sidefin,"Height: 3.6m, Width: 1m",0
+673,17, ,1.208.838.221,520.900.623,765.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+674,17, ,1.270.076.966,454.901.225,645.000,5m Overhang,"Height: 3.6m, Width: 1m",0
+675,17, ,1.083.241.469,6.230.275.678,1.225.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+676,17, ,177.982.643,3.524.475.866,2.910.000,2m Sidefin,"Height: 3.6m, Width: 1m",45
+677,17, ,1.177.759.906,510.005.239,715.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+678,17, ,113.659.494,6.452.285.693,1.430.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",270
+679,17, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+680,17, ,1.440.778.321,493.561.476,1.115.000,0.5m Overhang,"Height: 3.6m, Width: 5m",180
+681,17, ,132.686.536,42.517.927,550.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+682,17, ,1.083.241.469,6.230.275.678,1.225.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+683,17, ,132.686.536,42.517.927,550.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+684,17, ,201.395.327,1.773.544.433,3.605.000,0.2m Louvre,"Height: 3.6m, Width: 1m",0
+685,17, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+686,17, ,1.069.318.178,5.874.044.331,1.005.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+687,17, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+688,17, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+689,17, ,1.069.318.178,5.874.044.331,1.005.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+690,17, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+691,17, ,1.041.945.468,6.597.356.278,1.425.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+692,17, ,30.128.203,94.685.002,12.975.000,0.5m Sidefin,"Height: 3.6m, Width: 10m",0
+693,17, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+694,17, ,272.021.046,2.983.727.156,12.255.000,No shading,"Height: 3.6m, Width: 1m",90
+695,17, ,1.936.854.777,4.530.561.474,7.910.000,No shading,"Height: 3.6m, Width: 1m",135
+696,17, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+697,17, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+698,17, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+699,17, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+700,17, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+701,17, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+702,17, ,1.874.215.248,4.005.089.896,5.630.000,2.5m Overhang,"Height: 3.6m, Width: 5m",90
+703,17, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+704,18, ,215.874.744,1.970.879.626,5.640.000,2.5m Sidefin,"Height: 3.6m, Width: 2.5m",0
+705,18, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+706,18, ,193.371.169,227.910.893,2.100.000,2.5m Overhang,"Height: 3.6m, Width: 1m",45
+707,18, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+708,18, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+709,18, ,1.046.937.872,6.633.803.044,1.465.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",225
+710,18, ,284.375.595,293.262.103,12.780.000,No shading,"Height: 3.6m, Width: 2.5m",90
+711,18, ,1.237.914.399,61.293.286,1.305.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",135
+712,18, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+713,18, ,126.804.822,478.642.786,725.000,5m Overhang,"Height: 3.6m, Width: 2.5m",0
+714,18, ,172.465.475,3.220.715.498,1.305.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+715,18, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+716,18, ,1.069.318.178,5.874.044.331,1.005.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+717,18, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+718,18, ,247.295.905,1.914.830.613,10.235.000,1.0m Overhang,"Height: 3.6m, Width: 1m",45
+719,18, ,224.968.183,2.048.083.115,6.250.000,1.5m Overhang,"Height: 3.6m, Width: 1m",45
+720,18, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+721,18, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+722,18, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+723,18, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+724,18, ,247.295.905,1.914.830.613,10.235.000,1.0m Overhang,"Height: 3.6m, Width: 1m",45
+725,18, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+726,18, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+727,18, ,1.041.945.468,6.597.356.278,1.425.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+728,18, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+729,18, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+730,18, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+731,18, ,214.961.635,2.492.077.161,6.065.000,0.2m Louvre,"Height: 3.6m, Width: 2.5m",45
+732,18, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+733,18, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+734,18, ,247.295.905,1.914.830.613,10.235.000,1.0m Overhang,"Height: 3.6m, Width: 1m",45
+735,18, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+736,18, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+737,18, ,305.199.054,15.691.766,15.220.000,No shading,"Height: 3.6m, Width: 1m",45
+738,18, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+739,18, ,177.982.643,3.524.475.866,2.910.000,2m Sidefin,"Height: 3.6m, Width: 1m",45
+740,18, ,173.787.907,3.691.828.077,2.630.000,2.5m Sidefin,"Height: 3.6m, Width: 1m",45
+741,18, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+742,18, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+743,18, ,158.745.499,3.522.661.014,885.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 1m",45
+744,18, ,1.069.318.178,5.874.044.331,1.005.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+745,18, ,1.061.363.068,6.447.869.851,1.345.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+746,18, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+747,18, ,267.688.759,3.420.597.062,11.855.000,1.5m Sidefin,"Height: 3.6m, Width: 5m",90
+748,18, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+749,18, ,2.086.441.857,3.769.821.759,8.380.000,0.2m Louvre,"Height: 3.6m, Width: 2.5m",90
+750,18, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+751,18, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+752,19, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+753,19, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+754,19, ,247.295.905,1.914.830.613,10.235.000,1.0m Overhang,"Height: 3.6m, Width: 1m",45
+755,19, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+756,19, ,1.270.076.966,454.901.225,645.000,5m Overhang,"Height: 3.6m, Width: 1m",0
+757,19, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+758,19, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+759,19, ,1.069.318.178,5.874.044.331,1.005.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+760,19, ,1.202.180.073,540.556.999,925.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+761,19, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+762,19, ,1.102.620.569,6.288.972.415,1.285.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+763,19, ,1.109.279.179,61.430.027,1.250.000,2.5m Sidefin,"Height: 3.6m, Width: 1m",180
+764,19, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+765,19, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+766,19, ,251.851.436,1.971.757.732,10.805.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",45
+767,19, ,1.327.064.763,545.286.112,1.060.000,2.0m Overhang,"Height: 3.6m, Width: 10m",180
+768,19, ,269.471.555,1.125.832.975,10.080.000,0.5m Sidefin,"Height: 3.6m, Width: 2.5m",0
+769,19, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+770,19, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+771,19, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+772,19, ,1.250.621.485,605.827.646,1.280.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",135
+773,19, ,1.041.945.468,6.597.356.278,1.425.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+774,19, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+775,19, ,22.517.112,2.189.325.727,7.215.000,1.5m Overhang,"Height: 3.6m, Width: 1m",315
+776,19, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+777,19, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+778,19, ,1.087.287.474,5.706.929.575,915.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+779,19, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+780,19, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+781,19, ,174.940.065,2.156.532.608,1.715.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 5m",0
+782,19, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+783,19, ,242.979.472,2.304.253.019,10.005.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",45
+784,19, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+785,19, ,1.139.628.146,5.507.262.713,860.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",45
+786,19, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+787,19, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+788,19, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+789,19, ,1.334.434.502,541.118.108,1.050.000,2.0m Overhang,"Height: 3.6m, Width: 5m",180
+790,19, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+791,19, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+792,19, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+793,19, ,1.061.363.068,6.447.869.851,1.345.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+794,19, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+795,19, ,320.072.146,151.493.867,16.015.000,No shading,"Height: 3.6m, Width: 2.5m",45
+796,19, ,1.041.945.468,6.597.356.278,1.425.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+797,19, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+798,19, ,1.061.363.068,6.447.869.851,1.345.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+799,19, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+800,19, ,1.239.550.929,508.247.642,735.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+801,19, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+802,20, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+803,20, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+804,20, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+805,20, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+806,20, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+807,20, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+808,20, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+809,20, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+810,20, ,2.332.136.819,4.137.789.561,10.305.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",90
+811,20, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+812,20, ,198.009.137,2.560.969.527,4.855.000,2.0m Overhang,"Height: 3.6m, Width: 5m",315
+813,20, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+814,20, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+815,20, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+816,20, ,235.787.979,3.271.067.655,10.200.000,1.0m Overhang,"Height: 3.6m, Width: 1m",90
+817,20, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+818,20, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+819,20, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+820,20, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+821,20, ,1.083.241.469,6.230.275.678,1.225.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+822,20, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+823,20, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+824,20, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+825,20, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+826,20, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+827,20, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+828,20, ,1.431.314.457,493.522.589,1.065.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",180
+829,20, ,29.052.664,998.629.251,11.970.000,0.5m Sidefin,"Height: 3.6m, Width: 5m",0
+830,20, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+831,20, ,1.157.152.249,583.530.307,1.095.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+832,20, ,234.204.885,337.822.749,8.435.000,1.0m Overhang,"Height: 3.6m, Width: 5m",270
+833,20, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+834,20, ,1.514.140.728,532.218.421,2.805.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",135
+835,20, ,1.636.725.026,5.088.985.374,4.145.000,1.5m Overhang,"Height: 3.6m, Width: 5m",225
+836,20, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+837,20, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+838,20, ,327.436.566,149.152.165,16.375.000,No shading,"Height: 3.6m, Width: 10m",45
+839,20, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+840,20, ,132.516.207,425.552.435,560.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",45
+841,20, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+842,20, ,1.804.412.187,4.805.036.923,6.600.000,1.0m Overhang,"Height: 3.6m, Width: 1m",135
+843,20, ,1.061.363.068,6.447.869.851,1.345.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+844,20, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+845,20, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+846,20, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+847,20, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+848,20, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+849,20, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+850,20, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+851,20, ,1.689.563.928,5.043.033.672,4.940.000,1.5m Overhang,"Height: 3.6m, Width: 5m",135
+852,21, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+853,21, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+854,21, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+855,21, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+856,21, ,1.361.749.174,523.885.469,1.055.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",180
+857,21, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+858,21, ,132.516.207,425.552.435,560.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",45
+859,21, ,2.332.136.819,4.137.789.561,10.305.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",90
+860,21, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+861,21, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+862,21, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+863,21, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+864,21, ,318.470.911,133.378.344,13.515.000,0.5m Sidefin,"Height: 3.6m, Width: 10m",315
+865,21, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+866,21, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+867,21, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+868,21, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+869,21, ,1.215.016.412,618.638.158,1.310.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",135
+870,21, ,1.885.211.535,4.686.294.011,7.450.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",135
+871,21, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+872,21, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+873,21, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+874,21, ,1.209.343.153,62.220.329,1.345.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",135
+875,21, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+876,21, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+877,21, ,220.234.426,2.167.309.106,6.810.000,1.5m Overhang,"Height: 3.6m, Width: 5m",315
+878,21,Pareto,217.859.804,1.437.216.447,5.100.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 10m",0
+879,21, ,203.227.404,2.888.047.234,4.965.000,1m Sidefin,"Height: 3.6m, Width: 1m",45
+880,21, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+881,21, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+882,21, ,22.822.059,131.777.832,6.085.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+883,21, ,2.050.761.017,3.850.127.854,6.780.000,0.2m Louvre,"Height: 3.6m, Width: 5m",270
+884,21, ,1.846.203.991,468.150.456,7.000.000,0.5m Overhang,"Height: 3.6m, Width: 1m",135
+885,21, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+886,21, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+887,21, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+888,21, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+889,21, ,274.218.591,175.918.854,13.120.000,0.5m Overhang,"Height: 3.6m, Width: 1m",45
+890,21, ,227.212.102,1.331.944.992,5.870.000,1.0m Overhang,"Height: 3.6m, Width: 10m",0
+891,21, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+892,21, ,1.087.287.474,5.706.929.575,915.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+893,21, ,302.035.296,137.022.326,12.675.000,No shading,"Height: 3.6m, Width: 1m",315
+894,21, ,289.358.913,158.909.219,11.920.000,1.5m Sidefin,"Height: 3.6m, Width: 5m",315
+895,21, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+896,21, ,129.918.229,436.964.205,545.000,5m Overhang,"Height: 3.6m, Width: 1m",45
+897,21, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+898,21, ,1.440.778.321,493.561.476,1.115.000,0.5m Overhang,"Height: 3.6m, Width: 5m",180
+899,21, ,198.974.146,1.872.707.375,3.060.000,0.2m Louvre,"Height: 3.6m, Width: 10m",0
+900,21, ,224.968.183,2.048.083.115,6.250.000,1.5m Overhang,"Height: 3.6m, Width: 1m",45
+901,21, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+902,22, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+903,22, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+904,22, ,22.237.795,2.298.088.117,6.440.000,1.5m Overhang,"Height: 3.6m, Width: 5m",45
+905,22, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+906,22, ,1.089.863.974,5.675.226.986,1.020.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",315
+907,22, ,274.218.591,175.918.854,13.120.000,0.5m Overhang,"Height: 3.6m, Width: 1m",45
+908,22, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+909,22, ,1.940.312.121,5.345.712.189,6.720.000,1.5m Sidefin,"Height: 3.6m, Width: 1m",270
+910,22, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+911,22, ,22.237.795,2.298.088.117,6.440.000,1.5m Overhang,"Height: 3.6m, Width: 5m",45
+912,22, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+913,22, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+914,22, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+915,22, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+916,22, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+917,22, ,1.209.395.214,51.145.756,860.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",315
+918,22, ,126.804.822,478.642.786,725.000,5m Overhang,"Height: 3.6m, Width: 2.5m",0
+919,22, ,179.702.354,2.880.541.693,985.000,2.5m Overhang,"Height: 3.6m, Width: 5m",45
+920,22, ,1.625.652.329,5.203.858.556,4.035.000,0.2m Louvre,"Height: 3.6m, Width: 10m",135
+921,22, ,247.295.905,1.914.830.613,10.235.000,1.0m Overhang,"Height: 3.6m, Width: 1m",45
+922,22, ,1.762.683.915,4.984.406.968,6.280.000,2.0m Overhang,"Height: 3.6m, Width: 1m",135
+923,22, ,212.518.442,3.681.572.191,7.045.000,1.5m Overhang,"Height: 3.6m, Width: 5m",270
+924,22, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+925,22, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+926,22, ,1.732.849.452,4.976.560.034,5.545.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",135
+927,22, ,1.804.412.187,4.805.036.923,6.600.000,1.0m Overhang,"Height: 3.6m, Width: 1m",135
+928,22, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+929,22, ,170.136.806,3.245.930.961,795.000,2m Sidefin + 2m Overhang,"Height: 3.6m, Width: 5m",45
+930,22, ,118.360.904,557.277.864,1.000.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+931,22, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+932,22, ,205.984.606,1.590.776.092,4.125.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 5m",0
+933,22, ,278.769.362,1.088.523.121,11.060.000,1m Sidefin,"Height: 3.6m, Width: 5m",0
+934,22, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+935,22, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+936,22, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+937,22, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+938,22, ,210.906.763,3.667.181.559,6.885.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",270
+939,22, ,174.877.042,2.166.051.042,1.200.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+940,22, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+941,22, ,187.532.219,1.863.814.049,2.565.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 10m",0
+942,22, ,1.165.219.391,6.355.105.146,1.360.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",90
+943,22, ,132.516.207,425.552.435,560.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",45
+944,22, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+945,22, ,1.041.945.468,6.597.356.278,1.425.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+946,22, ,179.702.354,2.880.541.693,985.000,2.5m Overhang,"Height: 3.6m, Width: 5m",45
+947,22, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+948,22, ,188.924.762,1.915.073.433,2.825.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 1m",0
+949,22, ,1.087.287.474,5.706.929.575,915.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+950,22, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+951,23, ,200.315.066,1.833.281.341,3.305.000,0.2m Louvre,"Height: 3.6m, Width: 2.5m",0
+952,23, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+953,23, ,1.061.363.068,6.447.869.851,1.345.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+954,23, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+955,23, ,24384.43,186.406.472,8.745.000,1.0m Overhang,"Height: 3.6m, Width: 1m",315
+956,23, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+957,23, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+958,23, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+959,23, ,162.228.732,249.747.144,800.000,2.5m Overhang,"Height: 3.6m, Width: 10m",0
+960,23, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+961,23, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+962,23, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+963,23, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+964,23, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+965,23, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+966,23, ,185.956.133,2.596.894.407,1.415.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+967,23, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+968,23, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+969,23, ,1.470.884.818,553.526.214,2.525.000,2.5m Sidefin,"Height: 3.6m, Width: 2.5m",135
+970,23, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+971,23, ,1.089.863.974,5.675.226.986,1.020.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",315
+972,23, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+973,23, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+974,23, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+975,23, ,232.994.697,1.336.809.916,6.565.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+976,23, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+977,23, ,1.796.511.922,4.197.683.034,4.610.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",270
+978,23, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+979,23, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+980,23, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+981,23, ,259.927.617,204.379.846,11.565.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+982,23, ,1.194.407.611,554.341.437,985.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",0
+983,23, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+984,23, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+985,23, ,1.118.636.712,6.135.275.551,1.225.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+986,23, ,1.223.885.211,514.642.318,755.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+987,23, ,1.579.483.062,5.288.887.251,3.240.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 10m",135
+988,23, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+989,23, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+990,23, ,274.218.591,175.918.854,13.120.000,0.5m Overhang,"Height: 3.6m, Width: 1m",45
+991,23, ,1.270.076.966,454.901.225,645.000,5m Overhang,"Height: 3.6m, Width: 1m",0
+992,23, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+993,23, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+994,23, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+995,23, ,173.787.907,3.691.828.077,2.630.000,2.5m Sidefin,"Height: 3.6m, Width: 1m",45
+996,23, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+997,23, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+998,23, ,274.218.591,175.918.854,13.120.000,0.5m Overhang,"Height: 3.6m, Width: 1m",45
+999,23, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1000,24, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1001,24, ,176.636.954,3.006.075.818,2.550.000,2.5m Overhang,"Height: 3.6m, Width: 10m",315
+1002,24, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+1003,24, ,1.341.823.859,517.849.598,910.000,1.5m Overhang,"Height: 3.6m, Width: 1m",180
+1004,24, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1005,24, ,1.118.636.712,6.135.275.551,1.225.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1006,24, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1007,24, ,287.939.267,173.206.391,14.215.000,0.5m Overhang,"Height: 3.6m, Width: 5m",45
+1008,24, ,324.981.923,14.991.158,16.270.000,No shading,"Height: 3.6m, Width: 5m",45
+1009,24, ,320.072.146,151.493.867,16.015.000,No shading,"Height: 3.6m, Width: 2.5m",45
+1010,24, ,199.434.305,1.859.191.813,3.165.000,0.2m Louvre,"Height: 3.6m, Width: 5m",0
+1011,24, ,207.147.831,2.166.349.961,3.685.000,2.0m Overhang,"Height: 3.6m, Width: 1m",45
+1012,24, ,274.218.591,175.918.854,13.120.000,0.5m Overhang,"Height: 3.6m, Width: 1m",45
+1013,24, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1014,24, ,222.159.963,1.792.642.578,6.260.000,2m Sidefin,"Height: 3.6m, Width: 2.5m",0
+1015,24, ,1.061.363.068,6.447.869.851,1.345.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+1016,24, ,193.371.169,227.910.893,2.100.000,2.5m Overhang,"Height: 3.6m, Width: 1m",45
+1017,24, ,278.769.362,1.088.523.121,11.060.000,1m Sidefin,"Height: 3.6m, Width: 5m",0
+1018,24, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1019,24, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1020,24, ,298.060.647,150.313.498,12.400.000,1m Sidefin,"Height: 3.6m, Width: 5m",315
+1021,24, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1022,24, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1023,24, ,1.270.076.966,454.901.225,645.000,5m Overhang,"Height: 3.6m, Width: 1m",0
+1024,24, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1025,24, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+1026,24, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1027,24, ,327.436.566,149.152.165,16.375.000,No shading,"Height: 3.6m, Width: 10m",45
+1028,24, ,182.141.877,2.454.303.763,2.285.000,1m Sidefin,"Height: 3.6m, Width: 1m",0
+1029,24, ,195.002.162,2.577.841.685,4.460.000,2.0m Overhang,"Height: 3.6m, Width: 10m",315
+1030,24, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1031,24, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1032,24, ,22.237.795,2.298.088.117,6.440.000,1.5m Overhang,"Height: 3.6m, Width: 5m",45
+1033,24, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1034,24, ,1.819.286.463,4.913.389.624,6.765.000,1.5m Sidefin,"Height: 3.6m, Width: 5m",135
+1035,24, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1036,24, ,174.877.042,2.166.051.042,1.200.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1037,24, ,1.332.744.432,536.942.155,1.025.000,0.2m Louvre,"Height: 3.6m, Width: 2.5m",180
+1038,24, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1039,24, ,1.245.746.237,609.666.914,1.305.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",135
+1040,24, ,132.516.207,425.552.435,560.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",45
+1041,24, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1042,24, ,22.517.112,2.189.325.727,7.215.000,1.5m Overhang,"Height: 3.6m, Width: 1m",315
+1043,24, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1044,24, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1045,24, ,199.434.305,1.859.191.813,3.165.000,0.2m Louvre,"Height: 3.6m, Width: 5m",0
+1046,24, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1047,24, ,158.904.896,3.460.769.821,1.175.000,2.5m Sidefin,"Height: 3.6m, Width: 1m",0
+1048,24, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+1049,24, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1050,25, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1051,25, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+1052,25, ,174.940.065,2.156.532.608,1.715.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1053,25, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1054,25, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1055,25, ,1.313.694.732,581.674.727,1.170.000,5m Overhang,"Height: 3.6m, Width: 5m",135
+1056,25, ,203.227.404,2.888.047.234,4.965.000,1m Sidefin,"Height: 3.6m, Width: 1m",45
+1057,25, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1058,25, ,224.968.183,2.048.083.115,6.250.000,1.5m Overhang,"Height: 3.6m, Width: 1m",45
+1059,25, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+1060,25, ,174.877.042,2.166.051.042,1.200.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1061,25, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+1062,25, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1063,25, ,142.305.511,3.385.096.312,380.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 1m",0
+1064,25, ,199.434.305,1.859.191.813,3.165.000,0.2m Louvre,"Height: 3.6m, Width: 5m",0
+1065,25, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1066,25, ,174.877.042,2.166.051.042,1.200.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1067,25, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1068,25, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1069,25, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1070,25, ,1.896.108.672,4.695.297.012,7.600.000,0.5m Overhang,"Height: 3.6m, Width: 5m",135
+1071,25, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1072,25, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1073,25, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+1074,25, ,27.805.642,170.446.873,11.220.000,2.5m Sidefin,"Height: 3.6m, Width: 5m",315
+1075,25, ,1.366.103.759,507.302.306,955.000,1.0m Overhang,"Height: 3.6m, Width: 1m",180
+1076,25, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+1077,25, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1078,25, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1079,25, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+1080,25, ,1.145.302.943,641.747.706,1.385.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",135
+1081,25, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1082,25, ,158.745.499,3.522.661.014,885.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 1m",45
+1083,25, ,1.083.241.469,6.230.275.678,1.225.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+1084,25, ,1.058.487.165,6.002.975.435,1.060.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+1085,25, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1086,25, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1087,25, ,321.371.315,129.922.455,13.680.000,No shading,"Height: 3.6m, Width: 5m",315
+1088,25, ,246.697.727,135.498.476,8.325.000,1m Sidefin,"Height: 3.6m, Width: 2.5m",0
+1089,25, ,1.458.940.406,521.311.618,2.130.000,2.5m Overhang,"Height: 3.6m, Width: 1m",225
+1090,25, ,162.228.732,249.747.144,800.000,2.5m Overhang,"Height: 3.6m, Width: 10m",0
+1091,25, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1092,25, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+1093,25, ,222.292.504,2.165.328.475,7.000.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",315
+1094,25, ,1.216.379.769,595.124.692,1.175.000,1.5m Sidefin,"Height: 3.6m, Width: 1m",135
+1095,25, ,1.623.080.635,5.175.115.959,3.715.000,2.0m Overhang,"Height: 3.6m, Width: 5m",135
+1096,25, ,205.984.606,1.590.776.092,4.125.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 5m",0
+1097,25, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+1098,25, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1099,25, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+1100,26, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1101,26, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1102,26, ,278.769.362,1.088.523.121,11.060.000,1m Sidefin,"Height: 3.6m, Width: 5m",0
+1103,26, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1104,26, ,29.052.664,998.629.251,11.970.000,0.5m Sidefin,"Height: 3.6m, Width: 5m",0
+1105,26, ,231.845.059,2.318.332.587,8.175.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 5m",45
+1106,26, ,174.877.042,2.166.051.042,1.200.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1107,26, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1108,26, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1109,26, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1110,26, ,149.571.238,298.016.663,455.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 10m",0
+1111,26, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1112,26, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1113,26, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1114,26, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1115,26, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1116,26, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1117,26, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1118,26, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1119,26, ,132.516.207,425.552.435,560.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",45
+1120,26, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1121,26, ,242.979.472,2.304.253.019,10.005.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",45
+1122,26, ,203.227.404,2.888.047.234,4.965.000,1m Sidefin,"Height: 3.6m, Width: 1m",45
+1123,26, ,128.063.505,487.914.397,690.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+1124,26, ,118.360.904,557.277.864,1.000.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+1125,26, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1126,26, ,162.228.732,249.747.144,800.000,2.5m Overhang,"Height: 3.6m, Width: 10m",0
+1127,26, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1128,26, ,118.875.739,606.122.223,1.220.000,2m Sidefin,"Height: 3.6m, Width: 1m",135
+1129,26, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1130,26, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1131,26, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1132,26, ,223.783.064,340.029.338,7.720.000,1.0m Overhang,"Height: 3.6m, Width: 1m",270
+1133,26, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1134,26, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1135,26, ,1.137.351.276,560.836.052,985.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+1136,26, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1137,26, ,22.822.059,131.777.832,6.085.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1138,26, ,1.061.363.068,6.447.869.851,1.345.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+1139,26, ,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+1140,26, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+1141,26, ,162.228.732,249.747.144,800.000,2.5m Overhang,"Height: 3.6m, Width: 10m",0
+1142,26, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1143,26, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1144,26, ,174.877.042,2.166.051.042,1.200.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1145,26, ,1.766.010.846,4.147.146.335,4.215.000,2.5m Overhang,"Height: 3.6m, Width: 1m",270
+1146,26, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1147,26, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1148,26,Pareto,261.105.771,1.096.792.572,8.765.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1149,26, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1150,27, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1151,27, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1152,27, ,246.697.727,135.498.476,8.325.000,1m Sidefin,"Height: 3.6m, Width: 2.5m",0
+1153,27, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1154,27, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1155,27, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1156,27, ,113.728.321,591.956.731,1.125.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1157,27, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1158,27, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1159,27, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1160,27, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1161,27, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1162,27, ,113.728.321,591.956.731,1.125.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1163,27, ,1.193.200.657,5.228.461,910.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",315
+1164,27, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1165,27, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1166,27, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1167,27, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+1168,27, ,2.288.478.971,446.915.093,8.545.000,2.5m Sidefin,"Height: 3.6m, Width: 2.5m",270
+1169,27, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1170,27, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1171,27, ,174.877.042,2.166.051.042,1.200.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1172,27, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1173,27, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1174,27, ,1.224.607.948,52.148.434,870.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+1175,27, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1176,27, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1177,27, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1178,27, ,220.234.426,2.167.309.106,6.810.000,1.5m Overhang,"Height: 3.6m, Width: 5m",315
+1179,27, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1180,27, ,1.846.203.991,468.150.456,7.000.000,0.5m Overhang,"Height: 3.6m, Width: 1m",135
+1181,27, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1182,27, ,261.105.771,1.096.792.572,8.765.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1183,27, ,22.822.059,131.777.832,6.085.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1184,27, ,270.141.472,159.320.411,10.755.000,0.5m Overhang,"Height: 3.6m, Width: 1m",315
+1185,27, ,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+1186,27, ,187.532.219,1.863.814.049,2.565.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1187,27, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1188,27, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1189,27, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1190,27, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1191,27, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1192,27, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+1193,27, ,182.141.877,2.454.303.763,2.285.000,1m Sidefin,"Height: 3.6m, Width: 1m",0
+1194,27, ,187.532.219,1.863.814.049,2.565.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1195,27,Pareto,135.361.508,371.099.581,425.000,2m Sidefin + 2m Overhang,"Height: 3.6m, Width: 2.5m",0
+1196,27, ,120.823.609,542.056.697,925.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",0
+1197,27, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1198,27, ,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+1199,28, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1200,28, ,118.360.904,557.277.864,1.000.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+1201,28, ,204.801.379,3.663.633.745,6.400.000,1.5m Overhang,"Height: 3.6m, Width: 1m",270
+1202,28, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1203,28, ,22.822.059,131.777.832,6.085.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1204,28, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1205,28, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1206,28, ,13.863.918,527.197.481,925.000,5m Overhang,"Height: 3.6m, Width: 10m",90
+1207,28, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+1208,28, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1209,28, ,1.780.451.852,4.902.742.377,6.420.000,1.5m Overhang,"Height: 3.6m, Width: 1m",135
+1210,28, ,1.061.363.068,6.447.869.851,1.345.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+1211,28, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+1212,28, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1213,28, ,231.403.514,1.582.874.028,7.060.000,1.5m Sidefin,"Height: 3.6m, Width: 2.5m",0
+1214,28, ,174.877.042,2.166.051.042,1.200.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1215,28, ,198.009.137,2.560.969.527,4.855.000,2.0m Overhang,"Height: 3.6m, Width: 5m",315
+1216,28, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1217,28, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+1218,28, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1219,28, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1220,28, ,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+1221,28, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1222,28, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1223,28, ,1.804.412.187,4.805.036.923,6.600.000,1.0m Overhang,"Height: 3.6m, Width: 1m",135
+1224,28, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1225,28, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1226,28, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1227,28, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1228,28, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1229,28, ,203.649.949,2.539.180.504,5.550.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",315
+1230,28, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1231,28, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1232,28, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1233,28, ,24384.43,186.406.472,8.745.000,1.0m Overhang,"Height: 3.6m, Width: 1m",315
+1234,28, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1235,28, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1236,28, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+1237,28, ,1.732.849.452,4.976.560.034,5.545.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",135
+1238,28, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+1239,28, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1240,28, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1241,28, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1242,28, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1243,28, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1244,28, ,1.665.058.668,5.175.036.311,4.575.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",135
+1245,28, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1246,28, ,190.642.542,2.929.699.532,4.620.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",315
+1247,28, ,120.823.609,542.056.697,925.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",0
+1248,28, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1249,29, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1250,29, ,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+1251,29, ,222.292.504,2.165.328.475,7.000.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",315
+1252,29, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1253,29, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1254,29, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1255,29, ,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+1256,29, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1257,29, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1258,29, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1259,29, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1260,29, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1261,29, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1262,29, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1263,29, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1264,29, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1265,29, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1266,29, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1267,29, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1268,29, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+1269,29, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1270,29, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1271,29, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1272,29, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1273,29, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1274,29, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+1275,29, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1276,29, ,1.585.349.988,5.305.510.146,4.155.000,1.5m Sidefin,"Height: 3.6m, Width: 2.5m",135
+1277,29, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1278,29, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1279,29, ,1.936.949.375,3.943.122.515,5.670.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",270
+1280,29, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1281,29, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1282,29, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1283,29, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1284,29, ,270.141.472,159.320.411,10.755.000,0.5m Overhang,"Height: 3.6m, Width: 1m",315
+1285,29, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1286,29, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1287,29, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1288,29, ,1.623.080.635,5.175.115.959,3.715.000,2.0m Overhang,"Height: 3.6m, Width: 5m",135
+1289,29, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+1290,29, ,2.332.136.819,4.137.789.561,10.305.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",90
+1291,29, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+1292,29, ,2.081.057.447,4.239.826.235,6.975.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 2.5m",270
+1293,29, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1294,29, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1295,29, ,1.227.067.114,615.213.585,1.310.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",135
+1296,29, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1297,29, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1298,29, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1299,30, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1300,30, ,305.199.054,15.691.766,15.220.000,No shading,"Height: 3.6m, Width: 1m",45
+1301,30, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1302,30, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1303,30, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1304,30, ,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+1305,30, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1306,30, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1307,30, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1308,30, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1309,30, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1310,30, ,1.208.838.221,520.900.623,765.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+1311,30, ,1.623.080.635,5.175.115.959,3.715.000,2.0m Overhang,"Height: 3.6m, Width: 5m",135
+1312,30, ,1.936.854.777,4.530.561.474,7.910.000,No shading,"Height: 3.6m, Width: 1m",135
+1313,30, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1314,30, ,201.395.327,1.773.544.433,3.605.000,0.2m Louvre,"Height: 3.6m, Width: 1m",0
+1315,30, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1316,30, ,1.376.872.985,50.719.074,1.025.000,1.5m Sidefin,"Height: 3.6m, Width: 5m",180
+1317,30, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1318,30, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+1319,30, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1320,30, ,174.877.042,2.166.051.042,1.200.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1321,30, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1322,30, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1323,30, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1324,30, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1325,30, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1326,30, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1327,30, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+1328,30, ,324.981.923,14.991.158,16.270.000,No shading,"Height: 3.6m, Width: 5m",45
+1329,30, ,22.822.059,131.777.832,6.085.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1330,30, ,1.431.314.457,493.522.589,1.065.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",180
+1331,30, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1332,30, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1333,30, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1334,30, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1335,30, ,1.223.885.211,514.642.318,755.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+1336,30, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1337,30, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+1338,30, ,201.395.327,1.773.544.433,3.605.000,0.2m Louvre,"Height: 3.6m, Width: 1m",0
+1339,30, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1340,30, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1341,30, ,162.158.528,3.289.090.309,1.230.000,2m Sidefin,"Height: 3.6m, Width: 1m",0
+1342,30, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1343,30, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+1344,30, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1345,30, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1346,30, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+1347,30, ,1.160.320.428,609.885.887,1.260.000,2m Sidefin + 2m Overhang,"Height: 3.6m, Width: 2.5m",180
+1348,30, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1349,31, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1350,31, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1351,31, ,249.362.226,181.193.127,9.185.000,1.0m Overhang,"Height: 3.6m, Width: 5m",315
+1352,31, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+1353,31, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1354,31, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+1355,31, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1356,31, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1357,31, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1358,31, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1359,31, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1360,31, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+1361,31, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1362,31, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1363,31, ,174.877.042,2.166.051.042,1.200.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1364,31, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1365,31, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1366,31, ,1.517.751.755,5.393.460.519,2.115.000,2.5m Overhang,"Height: 3.6m, Width: 10m",135
+1367,31, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1368,31, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1369,31, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1370,31, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1371,31, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1372,31, ,1.778.788.851,4.882.993.829,6.250.000,1.0m Overhang,"Height: 3.6m, Width: 5m",135
+1373,31, ,1.437.164.378,478.287.772,1.020.000,No shading,"Height: 3.6m, Width: 1m",180
+1374,31, ,1.292.940.938,575.586.009,1.220.000,1m Sidefin,"Height: 3.6m, Width: 1m",135
+1375,31, ,1.365.475.838,540.118.598,1.200.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",270
+1376,31, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1377,31, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1378,31, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1379,31, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1380,31, ,301.586.834,172.958.609,14.835.000,1m Sidefin,"Height: 3.6m, Width: 5m",45
+1381,31, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1382,31, ,182.141.877,2.454.303.763,2.285.000,1m Sidefin,"Height: 3.6m, Width: 1m",0
+1383,31,Pareto,30.765.227,91.297.113,13.595.000,No shading,"Height: 3.6m, Width: 10m",0
+1384,31, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1385,31, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1386,31, ,128.063.505,487.914.397,690.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+1387,31, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1388,31, ,1.251.646.117,501.277.791,815.000,5m Overhang,"Height: 3.6m, Width: 5m",0
+1389,31, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1390,31, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1391,31, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+1392,31, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1393,31, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1394,31, ,1.339.232.841,477.850.038,795.000,5m Overhang,"Height: 3.6m, Width: 5m",315
+1395,31, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1396,31, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1397,31, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1398,31, ,288.460.235,291.635.272,12.910.000,No shading,"Height: 3.6m, Width: 5m",90
+1399,32, ,175.987.072,3.067.772.779,980.000,2.5m Overhang,"Height: 3.6m, Width: 10m",45
+1400,32, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+1401,32, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1402,32, ,270.026.495,1.178.995.616,10.400.000,1.5m Sidefin,"Height: 3.6m, Width: 5m",0
+1403,32, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1404,32, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1405,32, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1406,32, ,1.493.107.563,4.748.469.489,1.430.000,No shading,"Height: 3.6m, Width: 5m",180
+1407,32, ,1.239.550.929,508.247.642,735.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+1408,32, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1409,32, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+1410,32, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1411,32, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1412,32, ,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+1413,32, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1414,32, ,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+1415,32, ,201.395.327,1.773.544.433,3.605.000,0.2m Louvre,"Height: 3.6m, Width: 1m",0
+1416,32, ,277.842.969,3.196.658.772,12.415.000,2.5m Sidefin,"Height: 3.6m, Width: 10m",90
+1417,32, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1418,32, ,234.204.885,337.822.749,8.435.000,1.0m Overhang,"Height: 3.6m, Width: 5m",270
+1419,32, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1420,32, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1421,32, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1422,32, ,1.798.388.815,424.536.522,4.670.000,2.5m Overhang,"Height: 3.6m, Width: 5m",270
+1423,32, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1424,32, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1425,32, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+1426,32, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1427,32, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1428,32, ,158.904.896,3.460.769.821,1.175.000,2.5m Sidefin,"Height: 3.6m, Width: 1m",0
+1429,32, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1430,32, ,1.896.108.672,4.695.297.012,7.600.000,0.5m Overhang,"Height: 3.6m, Width: 5m",135
+1431,32, ,289.556.925,173.173.694,14.325.000,0.5m Overhang,"Height: 3.6m, Width: 10m",45
+1432,32, ,28.931.106,1.038.272.405,12.050.000,2m Sidefin,"Height: 3.6m, Width: 10m",0
+1433,32, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1434,32, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1435,32, ,1.258.869.432,499.794.611,725.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+1436,32, ,1.061.363.068,6.447.869.851,1.345.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+1437,32, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1438,32, ,118.360.904,557.277.864,1.000.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+1439,32, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+1440,32, ,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+1441,32, ,278.769.362,1.088.523.121,11.060.000,1m Sidefin,"Height: 3.6m, Width: 5m",0
+1442,32, ,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+1443,32, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1444,32, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1445,32, ,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+1446,32, ,30.765.227,91.297.113,13.595.000,No shading,"Height: 3.6m, Width: 10m",0
+1447,32, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1448,32, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1449,33, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1450,33, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1451,33, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1452,33, ,1.980.121.777,397.416.955,7.585.000,2.0m Overhang,"Height: 3.6m, Width: 10m",90
+1453,33, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+1454,33, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1455,33, ,261.105.771,1.096.792.572,8.765.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1456,33, ,261.105.771,1.096.792.572,8.765.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1457,33, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1458,33, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1459,33, ,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+1460,33, ,1.193.642.688,628.240.294,1.360.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",135
+1461,33, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1462,33, ,1.058.487.165,6.002.975.435,1.060.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+1463,33, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1464,33, ,187.532.219,1.863.814.049,2.565.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1465,33, ,29.616.755,980.269.429,12.560.000,1m Sidefin,"Height: 3.6m, Width: 10m",0
+1466,33, ,24384.43,186.406.472,8.745.000,1.0m Overhang,"Height: 3.6m, Width: 1m",315
+1467,33, ,1.339.232.841,477.850.038,795.000,5m Overhang,"Height: 3.6m, Width: 5m",315
+1468,33, ,1.623.080.635,5.175.115.959,3.715.000,2.0m Overhang,"Height: 3.6m, Width: 5m",135
+1469,33, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1470,33, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1471,33, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1472,33, ,174.877.042,2.166.051.042,1.200.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1473,33, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1474,33, ,231.403.514,1.582.874.028,7.060.000,1.5m Sidefin,"Height: 3.6m, Width: 2.5m",0
+1475,33, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1476,33, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1477,33, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1478,33, ,1.778.788.851,4.882.993.829,6.250.000,1.0m Overhang,"Height: 3.6m, Width: 5m",135
+1479,33, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1480,33, ,250.364.976,1.194.180.329,7.830.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1481,33, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1482,33, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1483,33, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1484,33, ,30.765.227,91.297.113,13.595.000,No shading,"Height: 3.6m, Width: 10m",0
+1485,33, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1486,33,Pareto,1.071.402.178,5.841.656.927,1.075.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",315
+1487,33, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1488,33, ,261.105.771,1.096.792.572,8.765.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1489,33, ,1.164.249.884,633.355.771,1.380.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",270
+1490,33, ,261.105.771,1.096.792.572,8.765.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1491,33, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1492,33, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1493,33, ,181.569.217,297.598.839,3.435.000,2.5m Overhang,"Height: 3.6m, Width: 5m",315
+1494,33, ,1.165.219.391,6.355.105.146,1.360.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",90
+1495,33, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1496,33, ,1.202.180.073,540.556.999,925.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+1497,33, ,118.875.739,606.122.223,1.220.000,2m Sidefin,"Height: 3.6m, Width: 1m",135
+1498,33, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1499,34, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1500,34, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1501,34, ,1.778.788.851,4.882.993.829,6.250.000,1.0m Overhang,"Height: 3.6m, Width: 5m",135
+1502,34, ,1.277.370.334,493.636.011,845.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",315
+1503,34, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1504,34, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1505,34, ,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+1506,34, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1507,34, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1508,34, ,214.359.039,3.412.929.617,8.560.000,2.0m Overhang,"Height: 3.6m, Width: 1m",90
+1509,34, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1510,34, ,287.939.267,173.206.391,14.215.000,0.5m Overhang,"Height: 3.6m, Width: 5m",45
+1511,34, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1512,34, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1513,34, ,250.364.976,1.194.180.329,7.830.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1514,34, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1515,34, ,30.765.227,91.297.113,13.595.000,No shading,"Height: 3.6m, Width: 10m",0
+1516,34, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1517,34, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+1518,34, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1519,34, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1520,34, ,261.105.771,1.096.792.572,8.765.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1521,34, ,306.972.974,143.056.433,12.840.000,2m Sidefin,"Height: 3.6m, Width: 10m",315
+1522,34, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1523,34, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1524,34, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1525,34, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1526,34, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1527,34, ,1.139.337.318,597.811.668,1.180.000,1.5m Sidefin,"Height: 3.6m, Width: 1m",180
+1528,34, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1529,34, ,1.344.337.524,552.918.414,1.215.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",270
+1530,34, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1531,34, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1532,34, ,269.471.555,1.125.832.975,10.080.000,0.5m Sidefin,"Height: 3.6m, Width: 2.5m",0
+1533,34, ,261.105.771,1.096.792.572,8.765.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1534,34, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1535,34, ,199.434.305,1.859.191.813,3.165.000,0.2m Louvre,"Height: 3.6m, Width: 5m",0
+1536,34, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1537,34, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1538,34, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1539,34, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1540,34, ,2.033.825.938,4.494.239.176,8.670.000,No shading,"Height: 3.6m, Width: 5m",135
+1541,34, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1542,34, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1543,34, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1544,34, ,248.221.393,18.202.195,9.145.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",315
+1545,34, ,261.105.771,1.096.792.572,8.765.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1546,34, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1547,34, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1548,34, ,183.275.883,2.993.946.668,1.645.000,2m Sidefin + 2m Overhang,"Height: 3.6m, Width: 10m",45
+1549,35, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1550,35, ,113.728.321,591.956.731,1.125.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1551,35, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1552,35, ,261.105.771,1.096.792.572,8.765.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1553,35, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1554,35, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1555,35, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1556,35, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1557,35, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1558,35, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1559,35, ,187.532.219,1.863.814.049,2.565.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1560,35, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1561,35, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1562,35, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1563,35, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1564,35, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1565,35, ,242.979.472,2.304.253.019,10.005.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",45
+1566,35, ,1.780.451.852,4.902.742.377,6.420.000,1.5m Overhang,"Height: 3.6m, Width: 1m",135
+1567,35, ,138.789.575,351.639.429,365.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1568,35, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1569,35, ,270.026.495,1.178.995.616,10.400.000,1.5m Sidefin,"Height: 3.6m, Width: 5m",0
+1570,35, ,1.251.924.952,501.996.482,865.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",315
+1571,35, ,198.241.299,2.586.399.491,3.025.000,2.0m Overhang,"Height: 3.6m, Width: 5m",45
+1572,35, ,305.199.054,15.691.766,15.220.000,No shading,"Height: 3.6m, Width: 1m",45
+1573,35, ,261.105.771,1.096.792.572,8.765.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1574,35, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1575,35, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1576,35, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1577,35, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+1578,35, ,1.202.180.073,540.556.999,925.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+1579,35, ,174.877.042,2.166.051.042,1.200.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1580,35, ,213.593.298,2.420.235.766,6.615.000,0.2m Louvre,"Height: 3.6m, Width: 2.5m",315
+1581,35, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1582,35, ,1.251.646.117,501.277.791,815.000,5m Overhang,"Height: 3.6m, Width: 5m",0
+1583,35, ,1.665.058.668,5.175.036.311,4.575.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",135
+1584,35, ,198.974.146,1.872.707.375,3.060.000,0.2m Louvre,"Height: 3.6m, Width: 10m",0
+1585,35, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1586,35, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1587,35, ,29.052.664,998.629.251,11.970.000,0.5m Sidefin,"Height: 3.6m, Width: 5m",0
+1588,35, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1589,35, ,198.241.299,2.586.399.491,3.025.000,2.0m Overhang,"Height: 3.6m, Width: 5m",45
+1590,35, ,162.158.528,3.289.090.309,1.230.000,2m Sidefin,"Height: 3.6m, Width: 1m",0
+1591,35, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1592,35, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1593,35, ,1.361.749.174,523.885.469,1.055.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",180
+1594,35, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1595,35, ,258.115.129,313.522.971,9.800.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 10m",270
+1596,35, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1597,35, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1598,36, ,213.236.652,3.691.618.383,7.115.000,1.5m Overhang,"Height: 3.6m, Width: 10m",270
+1599,36, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1600,36, ,1.896.108.672,4.695.297.012,7.600.000,0.5m Overhang,"Height: 3.6m, Width: 5m",135
+1601,36, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1602,36, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1603,36, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1604,36, ,1.778.683.435,4.992.588.624,6.420.000,2m Sidefin,"Height: 3.6m, Width: 5m",135
+1605,36, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1606,36, ,222.292.504,2.165.328.475,7.000.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",315
+1607,36, ,135.361.508,371.099.581,425.000,2m Sidefin + 2m Overhang,"Height: 3.6m, Width: 2.5m",0
+1608,36, ,174.940.065,2.156.532.608,1.715.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1609,36, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+1610,36, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1611,36, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1612,36, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1613,36, ,284.519.463,152.463.693,11.615.000,0.5m Overhang,"Height: 3.6m, Width: 5m",315
+1614,36, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1615,36, ,22.237.795,2.298.088.117,6.440.000,1.5m Overhang,"Height: 3.6m, Width: 5m",45
+1616,36, ,308.207.139,166.743.516,15.285.000,2.5m Sidefin,"Height: 3.6m, Width: 10m",45
+1617,36, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1618,36, ,182.141.877,2.454.303.763,2.285.000,1m Sidefin,"Height: 3.6m, Width: 1m",0
+1619,36, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1620,36, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1621,36, ,1.591.998.345,4.999.110.729,3.545.000,1.5m Overhang,"Height: 3.6m, Width: 1m",225
+1622,36, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1623,36, ,255.243.034,2.235.406.421,11.180.000,1.5m Sidefin,"Height: 3.6m, Width: 2.5m",45
+1624,36, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1625,36, ,30.071.439,9.297.241,12.905.000,No shading,"Height: 3.6m, Width: 2.5m",0
+1626,36, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1627,36, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1628,36, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1629,36, ,261.105.771,1.096.792.572,8.765.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1630,36, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1631,36, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1632,36, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1633,36, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1634,36, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1635,36, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1636,36, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1637,36, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1638,36, ,1.224.607.948,52.148.434,870.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+1639,36, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+1640,36, ,1.216.366.984,534.920.688,905.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",0
+1641,36, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1642,36, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1643,36, ,149.571.238,298.016.663,455.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 10m",0
+1644,36, ,1.208.838.221,520.900.623,765.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",45
+1645,36, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1646,36, ,1.237.529.717,51.801.732,860.000,5m Overhang,"Height: 3.6m, Width: 10m",0
+1647,36, ,1.827.460.751,4.854.203.651,6.800.000,0.5m Sidefin,"Height: 3.6m, Width: 2.5m",135
+1648,37, ,226.211.054,13.115.674,6.025.000,1.0m Overhang,"Height: 3.6m, Width: 1m",0
+1649,37, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1650,37, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1651,37, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1652,37, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1653,37, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1654,37, ,174.940.065,2.156.532.608,1.715.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1655,37, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1656,37, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1657,37, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1658,37, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1659,37, ,24384.43,186.406.472,8.745.000,1.0m Overhang,"Height: 3.6m, Width: 1m",315
+1660,37, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1661,37, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1662,37, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1663,37, ,227.212.102,1.331.944.992,5.870.000,1.0m Overhang,"Height: 3.6m, Width: 10m",0
+1664,37, ,1.339.232.841,477.850.038,795.000,5m Overhang,"Height: 3.6m, Width: 5m",315
+1665,37, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1666,37, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1667,37, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1668,37, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1669,37, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1670,37, ,1.747.322.361,505.592.207,6.105.000,2.5m Overhang,"Height: 3.6m, Width: 1m",135
+1671,37, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1672,37, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1673,37, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1674,37, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1675,37, ,118.360.904,557.277.864,1.000.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+1676,37, ,1.251.646.117,501.277.791,815.000,5m Overhang,"Height: 3.6m, Width: 5m",0
+1677,37, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1678,37, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1679,37, ,28.931.106,1.038.272.405,12.050.000,2m Sidefin,"Height: 3.6m, Width: 10m",0
+1680,37, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1681,37, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1682,37, ,321.371.315,129.922.455,13.680.000,No shading,"Height: 3.6m, Width: 5m",315
+1683,37, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1684,37, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1685,37, ,213.175.519,2.445.227.816,6.550.000,0.2m Louvre,"Height: 3.6m, Width: 1m",315
+1686,37, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1687,37, ,1.271.177.405,498.090.641,725.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",45
+1688,37, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1689,37, ,1.089.863.974,5.675.226.986,1.020.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",315
+1690,37, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1691,37, ,2.009.820.002,4.503.704.467,8.490.000,No shading,"Height: 3.6m, Width: 2.5m",135
+1692,37, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1693,37, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1694,37, ,113.728.321,591.956.731,1.125.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1695,37, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1696,37, ,1.846.203.991,468.150.456,7.000.000,0.5m Overhang,"Height: 3.6m, Width: 1m",135
+1697,37, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1698,38, ,247.295.905,1.914.830.613,10.235.000,1.0m Overhang,"Height: 3.6m, Width: 1m",45
+1699,38, ,212.411.079,2.531.712.181,6.355.000,2.0m Overhang,"Height: 3.6m, Width: 1m",315
+1700,38, ,30.765.227,91.297.113,13.595.000,No shading,"Height: 3.6m, Width: 10m",0
+1701,38, ,1.367.428.953,541.674.539,965.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",90
+1702,38, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1703,38, ,1.157.152.249,583.530.307,1.095.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+1704,38, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1705,38, ,1.732.849.452,4.976.560.034,5.545.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",135
+1706,38, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1707,38, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1708,38, ,280.968.845,153.995.391,11.365.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",315
+1709,38, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1710,38, ,1.102.620.569,6.288.972.415,1.285.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1711,38, ,168.528.902,2.993.624.855,1.385.000,1.5m Sidefin,"Height: 3.6m, Width: 1m",0
+1712,38, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1713,38, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1714,38, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1715,38, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1716,38, ,1.224.607.948,52.148.434,870.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+1717,38, ,1.061.363.068,6.447.869.851,1.345.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+1718,38, ,30.765.227,91.297.113,13.595.000,No shading,"Height: 3.6m, Width: 10m",0
+1719,38, ,1.041.945.468,6.597.356.278,1.425.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+1720,38, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1721,38, ,283.769.862,284.709.807,11.250.000,0.5m Sidefin,"Height: 3.6m, Width: 10m",270
+1722,38, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1723,38, ,318.470.911,133.378.344,13.515.000,0.5m Sidefin,"Height: 3.6m, Width: 10m",315
+1724,38, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1725,38, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1726,38, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1727,38, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1728,38, ,220.651.566,3.511.742.405,9.035.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",90
+1729,38, ,1.277.370.334,493.636.011,845.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",315
+1730,38, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1731,38, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1732,38, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1733,38, ,122.810.105,4.454.607.739,645.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1734,38, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1735,38, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1736,38, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1737,38, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1738,38, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1739,38, ,177.982.643,3.524.475.866,2.910.000,2m Sidefin,"Height: 3.6m, Width: 1m",45
+1740,38, ,288.460.235,291.635.272,12.910.000,No shading,"Height: 3.6m, Width: 5m",90
+1741,38, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1742,38, ,199.434.305,1.859.191.813,3.165.000,0.2m Louvre,"Height: 3.6m, Width: 5m",0
+1743,38, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1744,38,Pareto,1.122.514.291,5.454.953.757,980.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",315
+1745,38, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1746,38, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1747,38, ,1.201.013.593,548.336.327,955.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",0
+1748,39, ,184.553.922,1.912.312.397,2.245.000,2.5m Overhang,"Height: 3.6m, Width: 1m",0
+1749,39, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1750,39, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1751,39, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1752,39, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1753,39, ,1.875.743.498,4.798.035.606,7.415.000,1m Sidefin,"Height: 3.6m, Width: 5m",135
+1754,39, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1755,39, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1756,39, ,30.128.203,94.685.002,12.975.000,0.5m Sidefin,"Height: 3.6m, Width: 10m",0
+1757,39, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1758,39, ,1.887.307.284,4.687.543.275,6.015.000,0.5m Overhang,"Height: 3.6m, Width: 10m",225
+1759,39, ,1.064.877.923,6.565.799.814,1.450.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",135
+1760,39, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1761,39, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1762,39, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1763,39, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1764,39, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1765,39, ,1.549.540.502,524.896.816,3.220.000,2.0m Overhang,"Height: 3.6m, Width: 5m",225
+1766,39, ,30.765.227,91.297.113,13.595.000,No shading,"Height: 3.6m, Width: 10m",0
+1767,39, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1768,39, ,305.199.054,15.691.766,15.220.000,No shading,"Height: 3.6m, Width: 1m",45
+1769,39, ,21.613.062,1.604.816.156,5.295.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",0
+1770,39, ,198.241.299,2.586.399.491,3.025.000,2.0m Overhang,"Height: 3.6m, Width: 5m",45
+1771,39, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1772,39, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1773,39, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1774,39, ,13.863.918,527.197.481,925.000,5m Overhang,"Height: 3.6m, Width: 10m",90
+1775,39, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1776,39, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1777,39, ,1.071.402.178,5.841.656.927,1.075.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",315
+1778,39, ,1.202.180.073,540.556.999,925.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+1779,39, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1780,39, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1781,39, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1782,39, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1783,39, ,248.221.393,18.202.195,9.145.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",315
+1784,39, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1785,39, ,1.339.232.841,477.850.038,795.000,5m Overhang,"Height: 3.6m, Width: 5m",315
+1786,39, ,259.461.475,305.616.878,9.835.000,0.5m Overhang,"Height: 3.6m, Width: 5m",270
+1787,39, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+1788,39, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1789,39, ,22.237.795,2.298.088.117,6.440.000,1.5m Overhang,"Height: 3.6m, Width: 5m",45
+1790,39, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1791,39, ,1.182.749.885,528.114.851,795.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",45
+1792,39, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1793,39, ,22.822.059,131.777.832,6.085.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1794,39, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1795,39, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1796,39, ,126.329.945,501.081.213,725.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",45
+1797,39, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1798,40, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1799,40, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1800,40, ,270.026.495,1.178.995.616,10.400.000,1.5m Sidefin,"Height: 3.6m, Width: 5m",0
+1801,40, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1802,40, ,321.371.315,129.922.455,13.680.000,No shading,"Height: 3.6m, Width: 5m",315
+1803,40, ,1.330.020.077,557.775.797,1.005.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",90
+1804,40, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1805,40, ,30.765.227,91.297.113,13.595.000,No shading,"Height: 3.6m, Width: 10m",0
+1806,40, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1807,40, ,1.479.248.034,4.756.933.741,1.280.000,No shading,"Height: 3.6m, Width: 2.5m",180
+1808,40, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1809,40, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1810,40, ,138.789.575,351.639.429,365.000,2.5m Sidefin + 2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1811,40, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1812,40, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1813,40, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1814,40, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1815,40, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1816,40, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1817,40, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1818,40, ,1.089.863.974,5.675.226.986,1.020.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",315
+1819,40, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1820,40, ,213.496.699,2.339.310.167,5.460.000,0.2m Louvre,"Height: 3.6m, Width: 1m",45
+1821,40, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+1822,40, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1823,40, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1824,40, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1825,40, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1826,40, ,177.982.643,3.524.475.866,2.910.000,2m Sidefin,"Height: 3.6m, Width: 1m",45
+1827,40, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1828,40, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1829,40, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1830,40, ,28.931.106,1.038.272.405,12.050.000,2m Sidefin,"Height: 3.6m, Width: 10m",0
+1831,40, ,162.228.732,249.747.144,800.000,2.5m Overhang,"Height: 3.6m, Width: 10m",0
+1832,40, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1833,40, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1834,40, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+1835,40, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1836,40, ,305.199.054,15.691.766,15.220.000,No shading,"Height: 3.6m, Width: 1m",45
+1837,40, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1838,40, ,1.270.076.966,454.901.225,645.000,5m Overhang,"Height: 3.6m, Width: 1m",0
+1839,40, ,224.472.173,2.190.583.026,6.485.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+1840,40, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1841,40, ,287.939.267,173.206.391,14.215.000,0.5m Overhang,"Height: 3.6m, Width: 5m",45
+1842,40, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1843,40, ,198.009.137,2.560.969.527,4.855.000,2.0m Overhang,"Height: 3.6m, Width: 5m",315
+1844,40, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1845,40, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1846,40, ,1.936.854.777,4.530.561.474,7.910.000,No shading,"Height: 3.6m, Width: 1m",135
+1847,40, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1848,41, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1849,41, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1850,41, ,1.762.683.915,4.984.406.968,6.280.000,2.0m Overhang,"Height: 3.6m, Width: 1m",135
+1851,41, ,1.168.126.371,559.986.542,995.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1852,41, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1853,41, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1854,41, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1855,41, ,1.309.543.007,457.085.961,600.000,5m Overhang,"Height: 3.6m, Width: 2.5m",45
+1856,41, ,1.194.407.611,554.341.437,985.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",0
+1857,41, ,1.103.829.406,645.022.057,1.350.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",135
+1858,41, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1859,41, ,198.241.299,2.586.399.491,3.025.000,2.0m Overhang,"Height: 3.6m, Width: 5m",45
+1860,41, ,1.361.508.487,527.729.176,1.065.000,1.5m Overhang,"Height: 3.6m, Width: 5m",180
+1861,41, ,1.357.728.401,529.997.757,1.060.000,1.5m Overhang,"Height: 3.6m, Width: 10m",180
+1862,41, ,1.344.337.524,552.918.414,1.215.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",270
+1863,41, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1864,41, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1865,41, ,1.237.529.717,51.801.732,860.000,5m Overhang,"Height: 3.6m, Width: 10m",0
+1866,41, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1867,41, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1868,41, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1869,41, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1870,41, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1871,41, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1872,41, ,259.101.743,1.326.621.014,9.530.000,2.5m Sidefin,"Height: 3.6m, Width: 5m",0
+1873,41, ,286.455.655,189.090.183,13.795.000,2m Sidefin,"Height: 3.6m, Width: 5m",45
+1874,41, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1875,41, ,2.434.782.502,4.076.426.601,10.825.000,1.5m Sidefin,"Height: 3.6m, Width: 2.5m",90
+1876,41, ,172.132.536,3.522.686.493,3.255.000,2.5m Sidefin,"Height: 3.6m, Width: 1m",315
+1877,41, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1878,41, ,320.072.146,151.493.867,16.015.000,No shading,"Height: 3.6m, Width: 2.5m",45
+1879,41, ,264.935.274,1.084.547.693,8.935.000,0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1880,41, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1881,41, ,30.765.227,91.297.113,13.595.000,No shading,"Height: 3.6m, Width: 10m",0
+1882,41, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1883,41, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1884,41, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1885,41, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1886,41, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1887,41, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1888,41, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1889,41, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1890,41, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1891,41, ,1.291.681.839,591.127.129,1.215.000,5m Overhang,"Height: 3.6m, Width: 10m",135
+1892,41, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1893,41, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1894,41, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1895,41, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1896,41, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1897,42, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1898,42, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1899,42, ,1.210.039.011,520.847.191,860.000,0.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1900,42, ,1.216.366.984,534.920.688,905.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",0
+1901,42, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1902,42, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1903,42, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1904,42, ,1.102.620.569,6.288.972.415,1.285.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1905,42, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1906,42, ,22.237.795,2.298.088.117,6.440.000,1.5m Overhang,"Height: 3.6m, Width: 5m",45
+1907,42, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1908,42, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1909,42, ,1.623.080.635,5.175.115.959,3.715.000,2.0m Overhang,"Height: 3.6m, Width: 5m",135
+1910,42, ,1.334.434.502,541.118.108,1.050.000,2.0m Overhang,"Height: 3.6m, Width: 5m",180
+1911,42, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+1912,42, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1913,42, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1914,42, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1915,42, ,286.673.045,967.846.774,11.645.000,No shading,"Height: 3.6m, Width: 1m",0
+1916,42, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1917,42, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1918,42, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1919,42, ,1.549.540.502,524.896.816,3.220.000,2.0m Overhang,"Height: 3.6m, Width: 5m",225
+1920,42, ,1.083.241.469,6.230.275.678,1.225.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+1921,42, ,1.201.013.593,548.336.327,955.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 10m",0
+1922,42,Pareto,132.365.181,4.110.262.818,635.000,1.5m Sidefin + 1.5m Overhang,"Height: 3.6m, Width: 1m",315
+1923,42, ,30.765.227,91.297.113,13.595.000,No shading,"Height: 3.6m, Width: 10m",0
+1924,42, ,224.472.173,2.190.583.026,6.485.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",45
+1925,42, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1926,42, ,162.228.732,249.747.144,800.000,2.5m Overhang,"Height: 3.6m, Width: 10m",0
+1927,42, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1928,42, ,206.476.831,3.626.756.755,7.840.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",90
+1929,42, ,263.679.338,108.836.402,8.880.000,0.5m Overhang,"Height: 3.6m, Width: 5m",0
+1930,42, ,1.316.420.205,481.267.382,815.000,5m Overhang,"Height: 3.6m, Width: 10m",315
+1931,42, ,1.117.063.271,5.485.825.817,850.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",45
+1932,42, ,142.305.511,3.385.096.312,380.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 1m",0
+1933,42, ,162.228.732,249.747.144,800.000,2.5m Overhang,"Height: 3.6m, Width: 10m",0
+1934,42, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1935,42, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1936,42, ,203.649.949,2.539.180.504,5.550.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",315
+1937,42, ,113.728.321,591.956.731,1.125.000,1.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1938,42, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1939,42, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1940,42, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1941,42, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1942,42, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1943,42, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1944,42, ,30.765.227,91.297.113,13.595.000,No shading,"Height: 3.6m, Width: 10m",0
+1945,42, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1946,42, ,1.980.121.777,397.416.955,7.585.000,2.0m Overhang,"Height: 3.6m, Width: 10m",90
+1947,43, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1948,43, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1949,43, ,1.157.152.249,583.530.307,1.095.000,2.5m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+1950,43,Pareto,259.202.819,1.128.268.625,8.550.000,0.5m Sidefin + 0.5m Overhang,"Height: 3.6m, Width: 10m",0
+1951,43, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1952,43, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1953,43, ,22.822.059,131.777.832,6.085.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1954,43, ,1.798.388.815,424.536.522,4.670.000,2.5m Overhang,"Height: 3.6m, Width: 5m",270
+1955,43, ,30.534.583,91.941.886,13.385.000,No shading,"Height: 3.6m, Width: 5m",0
+1956,43, ,1.083.241.469,6.230.275.678,1.225.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 1m",0
+1957,43, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1958,43, ,190.642.542,2.929.699.532,4.620.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",315
+1959,43, ,261.105.771,1.096.792.572,8.765.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1960,43, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1961,43, ,204.449.753,1.564.855.316,3.785.000,1.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1962,43, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1963,43, ,1.202.180.073,540.556.999,925.000,1m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+1964,43, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1965,43, ,246.697.727,135.498.476,8.325.000,1m Sidefin,"Height: 3.6m, Width: 2.5m",0
+1966,43, ,162.228.732,249.747.144,800.000,2.5m Overhang,"Height: 3.6m, Width: 10m",0
+1967,43, ,270.026.495,1.178.995.616,10.400.000,1.5m Sidefin,"Height: 3.6m, Width: 5m",0
+1968,43, ,187.770.059,4.689.305.432,5.950.000,0.5m Overhang,"Height: 3.6m, Width: 5m",225
+1969,43, ,260.058.577,3.160.334.874,11.680.000,0.5m Overhang,"Height: 3.6m, Width: 2.5m",90
+1970,43, ,271.724.096,203.365.094,12.615.000,1m Sidefin,"Height: 3.6m, Width: 2.5m",45
+1971,43, ,174.877.042,2.166.051.042,1.200.000,2.5m Overhang,"Height: 3.6m, Width: 2.5m",0
+1972,43, ,28.931.106,1.038.272.405,12.050.000,2m Sidefin,"Height: 3.6m, Width: 10m",0
+1973,43, ,187.129.904,1.855.387.734,2.200.000,2.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1974,43, ,227.628.024,132.610.171,5.960.000,1.0m Overhang,"Height: 3.6m, Width: 5m",0
+1975,43, ,25.240.568,1.130.985.242,8.185.000,0.5m Overhang,"Height: 3.6m, Width: 1m",0
+1976,43, ,321.371.315,129.922.455,13.680.000,No shading,"Height: 3.6m, Width: 5m",315
+1977,43, ,198.840.695,1.649.471.106,3.445.000,1.5m Overhang,"Height: 3.6m, Width: 10m",0
+1978,43, ,194.214.138,1.699.040.819,2.955.000,2.0m Overhang,"Height: 3.6m, Width: 1m",0
+1979,43, ,240.099.401,204.046.494,8.910.000,0.5m Sidefin,"Height: 3.6m, Width: 1m",315
+1980,43, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1981,43, ,207.689.731,1.497.540.627,4.165.000,1.5m Overhang,"Height: 3.6m, Width: 1m",0
+1982,43, ,162.228.732,249.747.144,800.000,2.5m Overhang,"Height: 3.6m, Width: 10m",0
+1983,43, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1984,43, ,22.822.059,131.777.832,6.085.000,1.0m Overhang,"Height: 3.6m, Width: 2.5m",0
+1985,43, ,200.923.881,1.617.513.246,3.540.000,1.5m Overhang,"Height: 3.6m, Width: 5m",0
+1986,43, ,1.493.107.563,4.748.469.489,1.430.000,No shading,"Height: 3.6m, Width: 5m",180
+1987,43, ,1.169.641.101,570.991.284,1.055.000,2m Sidefin + 5m Overhang,"Height: 3.6m, Width: 5m",0
+1988,43, ,227.212.102,1.331.944.992,5.870.000,1.0m Overhang,"Height: 3.6m, Width: 10m",0
+1989,43, ,166.960.757,2.361.742.605,840.000,2.5m Overhang,"Height: 3.6m, Width: 5m",0
+1990,43, ,30.765.227,91.297.113,13.595.000,No shading,"Height: 3.6m, Width: 10m",0
+1991,43, ,30.765.227,91.297.113,13.595.000,No shading,"Height: 3.6m, Width: 10m",0
+1992,43, ,177.537.068,2.040.123.513,1.625.000,2.0m Overhang,"Height: 3.6m, Width: 10m",0
+1993,43, ,181.111.187,1.969.325.676,1.815.000,2.0m Overhang,"Height: 3.6m, Width: 5m",0
+1994,43, ,205.984.606,1.590.776.092,4.125.000,1m Sidefin + 1m Overhang,"Height: 3.6m, Width: 5m",0
+1995,43, ,1.270.076.966,454.901.225,645.000,5m Overhang,"Height: 3.6m, Width: 1m",0
+1996,43, ,30.765.227,91.297.113,13.595.000,No shading,"Height: 3.6m, Width: 10m",0
